@@ -1,0 +1,563 @@
+Company: OP Bancorp (CIK 1722010)
+Accession: 0001722010-26-000023
+Results released: 2026-10-22
+Press release: https://www.sec.gov/Archives/edgar/data/1722010/000172201026000023/opbk8-kerx2026xq3xex991.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1722010/000172201026000023/0001722010-26-000023-index.htm
+Saved: 2026-10-26T02:06:46+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 opbk8-kerx2026xq3xex991.htm EX-99.1
+Exhibit 99.1 News Release
+OP Bancorp Reports Third Quarter 2026 Net Income of $7.8 Million, Diluted EPS of $0.52
+compared with second quarter 2026 net income of $8.0 million, diluted EPS of $0.53,
+and third quarter 2025 net income of $6.7 million, diluted EPS of $0.45
+Growth in net interest income; Margin expansion; Continued balance sheet growth
+Los Angeles, CA (October 22, 2026) — OP Bancorp (the “Company”) (NASDAQ: OPBK), parent company of Open Bank, today reported:
+($ in thousands, except per share data) | As of and For the Quarter | Third Quarter Highlights
+3Q2026 | 2Q2026 | 3Q2025 | Comparisons reflect 3Q26 vs. 2Q26
+Income Statement: | Income Statement
+Net interest income | $ | 22,207 | $ | 20,068 | $ | 20,346 | • Revenue growth driven by higher net interest income. •Net interest income increased, supported by continued loan growth. • Higher provision reflected loan growth and changes in criticized loans.
+Noninterest income | 5,295 | 5,651 | 4,130
+Revenue | 27,502 | 25,719 | 24,476
+Provision for (reversal of) credit losses | 1,597 | (149) | 1,175
+Noninterest expense | 15,512 | 14,826 | 13,629
+Net income | $ | 7,763 | $ | 7,978 | $ | 6,703
+Diluted Earnings Per Share (“EPS”) | $ | 0.52 | $ | 0.53 | $ | 0.45
+Net interest margin (1) | 3.27 | % | 3.08 | % | 3.26 | %
+Efficiency ratio (2) | 56.40 | 57.64 | 55.68
+Balance Sheet: | Balance Sheet
+Average loans (3) | $ | 2,334,125 | $ | 2,253,270 | $ | 2,132,230 | •Average loans increased 4%. •Average deposits increased 4%.
+Average deposits | 2,408,059 | 2,315,821 | 2,229,591
+Credit Quality: | Credit Quality
+Net charge-offs (1) to average gross loans | 0.14 | % | 0.03 | % | 0.04 | % | •Net charge-offs increased but remained relatively low.
+Allowance for credit losses on loans to gross loans | 1.26 | 1.24 | 1.27 | •Allowance coverage remained adequate.
+Selected Metrics: | Performance and Capital
+Book value per share | $ | 16.07 | $ | 15.99 | $ | 14.88 | •Book value per share continued to increase, reflecting growth in shareholders’ equity.
+Return on average assets ("ROAA") (1) | 1.11 | % | 1.18 | % | 1.04 | % | •ROAA and ROAE remained robust.
+Return on average equity ("ROAE") (1) | 12.94 | 13.61 | 12.36
+Shareholders' equity to asset ratio | 8.54 | 8.70 | 8.47 | •The Company maintained a solid equity position.
+Tier 1 leverage ratio | 9.09 | 9.21 | 9.01 | •Tier 1 leverage remained robust, supporting future growth.
+(1)Annualized.
+(2)Represents noninterest expense divided by the sum of net interest income and noninterest income.
+(3)Includes loans held-for-sale.
+1
+Sang K. Oh, President and Chief Executive Officer:
+“We delivered solid results in the third quarter, with net income of $7.8 million and diluted EPS of $0.52. Continued loan growth supported higher net interest income and further expansion in net interest margin. Book value per share continued to increase, reflecting growth in shareholders’ equity, while we maintained appropriate capital levels. As we enter the final quarter of 2026, we remain committed to sustainable growth, disciplined risk management and operating efficiency,” said Sang K. Oh, President and Chief Executive Officer.
+2
+INCOME STATEMENT HIGHLIGHTS
+Net Interest Income and Net Interest Margin
+($ in thousands) | For the Three Months Ended | % Change 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025 | 2Q2026 | 3Q2025
+Interest Income
+Interest income | $ | 41,377 | $ | 38,193 | $ | 38,522 | 8 | % | 7 | %
+Interest expense | 19,170 | 18,125 | 18,176 | 6 | 5
+Net interest income | $ | 22,207 | $ | 20,068 | $ | 20,346 | 11 | % | 9 | %
+($ in thousands) | For the Three Months Ended | Average Yield/Rate Change 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025
+Interest Income/Expense | Average Yield/Rate(1) | Interest Income/Expense | Average Yield/Rate(1) | Interest Income/Expense | Average Yield/Rate(1) | 2Q2026 | 3Q2025
+Interest-earning Assets:
+Loans | $ | 37,627 | 6.41 | % | $ | 35,731 | 6.36 | % | $ | 35,001 | 6.52 | % | 5 bps | (11) bps
+Total interest-earning assets | 41,377 | 6.08 | 38,193 | 5.87 | 38,522 | 6.16 | 21 bps | (8) bps
+Interest-bearing Liabilities:
+Interest-bearing deposits | 17,905 | 3.79 | 16,891 | 3.77 | 17,442 | 4.07 | 2 bps | (28) bps
+Total interest-bearing liabilities | 19,170 | 3.84 | 18,125 | 3.82 | 18,176 | 4.06 | 2 bps | (22) bps
+Ratios:
+Net interest income / interest rate spreads | 22,207 | 2.24 | 20,068 | 2.05 | 20,346 | 2.10 | 19 bps | 14 bps
+Net interest margin | 3.27 | 3.08 | 3.26 | 19 bps | 1 bps
+Total deposits / cost of deposits | 17,905 | 2.95 | 16,891 | 2.93 | 17,442 | 3.10 | 2 bps | (15) bps
+Total funding liabilities / cost of funds | 19,170 | 3.03 | 18,125 | 3.00 | 18,176 | 3.13 | 3 bps | (10) bps
+(1)Annualized.
+($ in thousands) | For the Three Months Ended | Average Yield Change 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025
+Interest Income | Average Yield (1) | Interest Income | Average Yield (1) | Interest Income | Average Yield (1) | 2Q2026 | 3Q2025
+Loan Yield Component:
+Contractual interest rate | $ | 36,973 | 6.30 | % | $ | 35,335 | 6.29 | % | $ | 34,263 | 6.39 | % | 1 bps | (9) bps
+Recurring accretion / amortization | 239 | 0.04 | 226 | 0.04 | 299 | 0.05 | — bps | (1) bps
+Nonrecurring (2) | 415 | 0.07 | 170 | 0.03 | 439 | 0.08 | 4 bps | (1) bps
+Yield on loans | $ | 37,627 | 6.41 | % | $ | 35,731 | 6.36 | % | $ | 35,001 | 6.52 | % | 5 bps | (11) bps
+(1)Annualized.
+(2)Includes nonaccrual loan interest recognized or reversed, prepayment penalties and other fees, and accelerated discounts and premiums associated with loan payoffs.
+3
+Third Quarter 2026 vs. Second Quarter 2026
+Net interest income increased by $2.1 million, or 11%, primarily driven by continued loan growth and the normalization of Federal Reserve Bank account income following a prior-quarter accrual adjustment. These benefits were partially offset by higher interest expense resulting from growth in average interest-bearing deposit balances. As a result, net interest margin increased by 19 basis points to 3.27%.
+◦Interest-bearing Deposits in Other Banks: Interest income increased by $1.1 million, primarily reflecting the absence of a one-time Federal Reserve Bank accrual adjustment recorded in the prior quarter, as well as higher average balances.
+◦Loans: Interest income increased by $1.9 million, driven largely by an $80.9 million or 4% increase in average loan balances, reflecting growth in CRE and home mortgage loans, along with a 5-basis-point increase in average loan yield to 6.41%.
+◦Deposits: Interest expense increased by $1.0 million, primarily due to a $76.4 million or 4% increase in average interest-bearing deposit balances, including growth in money market and time deposit accounts. Despite the higher balances, the average cost of interest-bearing deposits increased only 2 basis points to 3.79%, reflecting relatively stable funding costs during the quarter.
+Third Quarter 2026 vs. Third Quarter 2025
+Net interest income increased by $1.9 million, or 9%, primarily driven by balance sheet growth and lower deposit rates. These favorable factors were partially offset by lower loan yields. As a result, the net interest margin increased by one basis point to 3.27%.
+◦Loans: Interest income increased by $2.6 million, largely attributable to a $201.9 million increase in average loan balances, reflecting continued growth in CRE loans. The increase was partially offset by an 11-basis-point decline in loan yields, reflecting the impact of the federal funds rate cuts during the prior year and the repricing of adjustable-rate loans and newly originated loans.
+◦Deposits: Interest expense increased by $463 thousand, mainly due to a $173.3 million increase in average interest-bearing deposit balances, driven mainly by growth in time deposits. The increase was partially offset by a 28-basis-point decline in costs of interest-bearing deposits, reflecting the repricing of time deposits and money market accounts following the federal funds rate cuts.
+Provision for Credit Losses
+($ in thousands) | For the Three Months Ended | $ Change 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025 | 2Q2026 | 3Q2025
+Provision for (reversal of) credit losses on loans | $ | 1,557 | $ | (131) | $ | 1,206 | $ | 1,688 | $ | 351
+Provision for (reversal of) credit losses on off-balance sheet exposure | 40 | (18) | (31) | 58 | 71
+Provision for (reversal of) credit losses | $ | 1,597 | $ | (149) | $ | 1,175 | $ | 1,746 | $ | 422
+Third Quarter 2026 vs. Second Quarter 2026
+Provision for credit losses on loans increased by $1.7 million. The increase primarily reflected higher general reserve requirements associated with loan growth and changes in credit
+4
+quality, including an increase in criticized loans. Higher specific reserves due to lower net collateral values of individually evaluated loans also contributed to the increase.
+Third Quarter 2026 vs. Third Quarter 2025
+Provision for credit losses on loans increased by $351 thousand. The increase primarily reflected higher specific reserves due to lower net collateral values of individually evaluated loans and higher general reserve requirements associated with loan growth, partially offset by lower qualitative reserve requirements.
+Noninterest Income
+($ in thousands) | For the Three Months Ended | % Change 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025 | 2Q2026 | 3Q2025
+Noninterest Income
+Service charges on deposits | $ | 468 | $ | 515 | $ | 725 | (9) | % | (35) | %
+Loan servicing fees, net of amortization | 980 | 974 | 724 | 1 | 35
+Gains on sale of loans | 3,277 | 3,370 | 2,037 | (3) | 61
+Other income | 570 | 792 | 644 | (28) | (11)
+Total noninterest income | $ | 5,295 | $ | 5,651 | $ | 4,130 | (6) | % | 28 | %
+Third Quarter 2026 vs. Second Quarter 2026
+Noninterest income decreased by $356 thousand, or 6%, primarily driven by lower other income.
+◦Gains on Sale of Loans: Decreased by $93 thousand, primarily reflecting a lower average premium rate, partially offset by higher SBA loan sales volume. The Bank sold $51.1 million in SBA loans at an average premium rate of 8.06%, compared with $49.1 million sold at an average premium rate of 8.17% in the prior period.
+◦Other Income: Decreased by $222 thousand, mainly due to higher unrealized losses on CRA mutual funds from higher market interest rates.
+Third Quarter 2026 vs. Third Quarter 2025
+Noninterest income increased by $1.2 million, or 28%, primarily due to higher gains on sale of loans.
+◦Gains on Sale of Loans: Increased by $1.2 million, driven by stronger SBA loan sale activity and higher premium rates. The Bank sold $51.1 million in SBA loans at an average premium rate of 8.06%, compared with $36.8 million sold at an average premium rate of 6.71% in the prior period.
+5
+Noninterest Expense
+($ in thousands) | For the Three Months Ended | % Change 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025 | 2Q2026 | 3Q2025
+Noninterest Expense
+Salaries and employee benefits | $ | 9,452 | $ | 9,733 | $ | 8,892 | (3) | % | 6 | %
+Occupancy and equipment | 1,827 | 1,901 | 1,676 | (4) | 9
+Data processing and communication | 513 | 380 | 263 | 35 | 95
+Professional fees | 1,129 | 454 | 419 | 149 | 169
+FDIC insurance and regulatory assessments | 385 | 387 | 428 | (1) | (10)
+Promotion and advertising | 224 | 104 | 126 | 115 | 78
+Directors’ fees | 155 | 164 | 151 | (5) | 3
+Foundation donation and other contributions | 750 | 811 | 671 | (8) | 12
+Other expenses | 1,077 | 892 | 1,003 | 21 | 7
+Total noninterest expense | $ | 15,512 | $ | 14,826 | $ | 13,629 | 5 | % | 14 | %
+Third Quarter 2026 vs. Second Quarter 2026
+Noninterest expense increased by $686 thousand, or 5%, primarily due to higher professional fees.
+◦Professional Fees: Increased by $675 thousand, primarily due to higher non-recurring legal and professional service expenses incurred during the quarter.
+Third Quarter 2026 vs. Third Quarter 2025
+Noninterest expense increased by $1.9 million, or 14%, primarily due to higher professional fees and salaries and employee benefits.
+◦Salaries and Employee Benefits: Increased by $560 thousand, primarily due to staffing growth, annual salary adjustments effective April 2026, and higher incentive accruals associated with increased SBA loan production.
+◦Professional Fees: Increased by $710 thousand, primarily due to higher non-recurring legal and professional service expenses compared to the prior year.
+Income Tax Expense
+Third Quarter 2026 vs. Second Quarter 2026
+Income tax expense decreased by $434 thousand to $2.6 million, primarily due to lower pre-tax income and a lower effective tax rate. The effective tax rate decreased to 25.3% from 27.8%, primarily due to return-to-provision adjustments associated with the prior-year tax returns.
+Third Quarter 2026 vs. Third Quarter 2025
+Income tax expense decreased by $339 thousand to $2.6 million, primarily reflecting a lower effective tax rate, partially offset by higher pre-tax income. The effective tax rate decreased to 25.3% from 30.7%, mainly due to the absence of a one-time deferred tax asset
+6
+revaluation recognized in the prior-year period and return-to-provision adjustments associated with the prior-year tax returns.
+BALANCE SHEET HIGHLIGHTS
+Loans
+($ in thousands) | As of | % Change 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025 | 2Q2026 | 3Q2025
+CRE | $ | 1,199,046 | $ | 1,190,117 | $ | 1,092,808 | 1 | % | 10 | %
+SBA | 302,201 | 278,554 | 256,211 | 8 | 18
+C&I | 186,444 | 221,623 | 214,419 | (16) | (13)
+Home mortgage | 600,017 | 568,512 | 587,641 | 6 | 2
+Consumer & other | 121 | 255 | 138 | (53) | (12)
+Gross loans | $ | 2,287,829 | $ | 2,259,061 | $ | 2,151,217 | 1 | % | 6 | %
+The following table summarizes the loan activity for the periods indicated:
+($ in thousands) | For the Three Months Ended
+3Q2026 | 2Q2026 | 3Q2025
+Beginning Balance | $ | 2,259,061 | $ | 2,234,259 | $ | 2,071,580
+Originations | 149,094 | 169,340 | 130,695
+Net change in line utilization | (27,340) | 35,399 | 31,167
+Purchases | 19,593 | 5,426 | 8,930
+Sales | (51,102) | (51,907) | (36,136)
+Payoffs & paydowns | (84,652) | (123,664) | (71,526)
+Other | 23,175 | (9,792) | 16,507
+Total | 28,768 | 24,802 | 79,637
+Ending balance | $ | 2,287,829 | $ | 2,259,061 | $ | 2,151,217
+As of September 30, 2026 vs. June 30, 2026
+Gross loans increased by $28.8 million or 1%, primarily reflecting lower CRE payoffs, partially offset by lower line utilization in C&I loans.
+As of September 30, 2026 vs. September 30, 2025
+Gross loans increased by $136.6 million or 6%, primarily driven by growth in CRE and SBA loans from originations, partially offset by lower line utilization in C&I loans.
+7
+The following table presents loan originations and the corresponding weighted average contractual rates for the periods indicated:
+($ in thousands) | For the Three Months Ended | % Change in Amounts 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025 | 2Q2026 | 3Q2025
+Amount | Rate | Amount | Rate | Amount | Rate
+CRE | $ | 51,654 | 6.30 | % | $ | 92,042 | 6.78 | % | $ | 98,799 | 6.36 | % | (44) | % | (48) | %
+SBA | 29,611 | 7.96 | 32,403 | 7.94 | 15,051 | 8.72 | (9) | 97
+C&I | 14,083 | 6.41 | 8,321 | 7.28 | 9,984 | 6.96 | 69 | 41
+Home mortgage | 53,746 | 6.09 | 36,574 | 5.94 | 6,861 | 6.69 | 47 | 683
+Gross loans (1) | $ | 149,094 | 6.56 | % | $ | 169,340 | 6.85 | % | $ | 130,695 | 6.69 | % | (12) | % | 14 | %
+(1)Excludes changes in line utilization.
+The following table presents the composition of gross loans by interest rate type accompanied by the weighted average contractual rates as of the periods indicated:
+($ in thousands) | As of
+3Q2026 | 2Q2026 | 3Q2025
+% | Rate | % | Rate | % | Rate
+Fixed rate | 27 | % | 5.78 | % | 28 | % | 5.77 | % | 31 | % | 5.61 | %
+Hybrid rate | 42 | 6.12 | 41 | 6.05 | 41 | 5.89
+Variable rate | 31 | 6.80 | 31 | 6.90 | 28 | 8.02
+Gross loans | 100 | % | 6.24 | % | 100 | % | 6.24 | % | 100 | % | 6.40 | %
+The following table presents the maturity of gross loans by interest rate type accompanied by the weighted average contractual rates for the periods indicated:
+($ in thousands) | As of September 30, 2026
+Within One Year | One Year Through Five Years | After Five Years | Total
+Amount | Rate | Amount | Rate | Amount | Rate | Amount | Rate
+Fixed rate | $ | 150,633 | 5.49 | % | $ | 276,723 | 6.57 | % | $ | 189,074 | 4.86 | % | $ | 616,430 | 5.78 | %
+Hybrid rate | — | — | 208,068 | 5.71 | 762,455 | 6.23 | 970,523 | 6.12
+Variable rate | 112,676 | 7.14 | 179,254 | 6.82 | 408,946 | 6.70 | 700,876 | 6.80
+Gross loans | $ | 263,309 | 6.20 | % | $ | 664,045 | 6.37 | % | $ | 1,360,475 | 6.18 | % | $ | 2,287,829 | 6.24 | %
+8
+Allowance for Credit Losses
+The following table summarizes the activity in the allowance for credit losses for the periods presented:
+($ in thousands) | As of and For the Three Months Ended | $ Change 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025 | 2Q2026 | 3Q2025
+Allowance for credit losses on loans, beginning | $ | 28,100 | $ | 28,406 | $ | 26,286 | $ | (306) | $ | 1,814
+Provision for (reversal of) credit losses on loans | 1,557 | (131) | 1,206 | 1,688 | 351
+Gross charge-offs | (922) | (224) | (195) | (698) | (727)
+Gross recoveries | 101 | 49 | 2 | 52 | 99
+Net charge-offs | (821) | (175) | (193) | (646) | (628)
+Allowance for credit losses on loans, ending | $ | 28,836 | $ | 28,100 | $ | 27,299 | $ | 736 | $ | 1,537
+Allowance for credit losses on off-balance sheet exposure, beginning | $ | 268 | $ | 286 | $ | 360 | $ | (18) | $ | (92)
+Provision for (reversal of) credit losses on off-balance sheet exposure | 40 | (18) | (31) | 58 | 71
+Allowance for credit losses on off-balance sheet exposure, ending | $ | 308 | $ | 268 | $ | 329 | $ | 40 | $ | (21)
+9
+Asset Quality
+($ in thousands) | As of and For the Three Months Ended | % or Basis Point Change 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025 | 2Q2026 | 3Q2025
+Accruing loans 30-89 days past due | $ | 12,201 | $ | 10,486 | $ | 5,386 | 16 | % | 127 | %
+As a % of gross loans | 0.53 | % | 0.46 | % | 0.25 | % | 7 bps | 28 bps
+Nonaccrual loans (1)(2) | $ | 18,032 | $ | 16,372 | $ | 12,312 | 10 | % | 46 | %
+Loans 90 days or more past due, accruing | — | 892 | — | (100) | —
+Nonperforming loans (2) | 18,032 | 17,264 | 12,312 | 4 | 46
+OREO | — | — | 845 | — | (100)
+Nonperforming assets (2) | $ | 18,032 | $ | 17,264 | $ | 13,157 | 4 | % | 37 | %
+Nonperforming loans to gross loans | 0.79 | % | 0.76 | % | 0.57 | % | 3 bps | 22 bps
+Nonperforming assets to gross loans & OREO | 0.79 | 0.76 | 0.61 | 3 bps | 18 bps
+Nonperforming assets to total assets | 0.64 | 0.63 | 0.50 | 1 bps | 14 bps
+Criticized loans (3)(4) by risk categories:
+Special mention loans | $ | 51,728 | $ | 8,834 | $ | 8,695 | 486 | % | 495 | %
+Classified loans (5) | 25,828 | 24,594 | 19,380 | 5 | 33
+Total criticized loans | $ | 77,556 | $ | 33,428 | $ | 28,075 | 132 | % | 176 | %
+Classified loans to gross loans | 1.13 | % | 1.09 | % | 0.90 | % | 4 bps | 23 bps
+Criticized loans to gross loans | 3.39 | 1.48 | 1.31 | 191 bps | 208 bps
+Allowance for credit losses ratios:
+As a % of gross loans | 1.26 | % | 1.24 | % | 1.27 | % | 2 bps | (1) bps
+As a % of nonperforming loans | 160 | 163 | 222 | (3) | % | (62) | %
+As a % of nonperforming assets | 160 | 163 | 207 | (3) | (47)
+As a % of classified loans | 112 | 114 | 141 | (2) | (29)
+As a % of criticized loans | 37 | 84 | 97 | (47) | (60)
+Net charge-offs | $ | 821 | $ | 175 | $ | 193 | NM | 325 | %
+Net charge-offs (6) to average gross loans | 0.14 | 0.03 | 0.04 | 11 bps | 10 bps
+NM — Not Meaningful
+(1)Excludes loans held-for-sale.
+(2)Excludes the guaranteed portion of loans totaling $38.3 million, $30.5 million and $17.6 million as of September 30, 2026, June 30, 2026 and September 30, 2025, respectively.
+(3)Excludes the guaranteed portion of loans totaling $43.5 million, $35.8 million and $20.8 million as of September 30, 2026, June 30, 2026 and September 30, 2025, respectively.
+(4)Consists of special mention, substandard, doubtful and loss categories.
+(5)Consists of substandard, doubtful and loss categories.
+(6)Annualized.
+10
+Overall credit quality remained generally sound during the quarter. We believe the allowance for credit losses on loans remained adequate at 1.26% of gross loans as of September 30, 2026.
+◦Accruing loans 30-89 days past-due increased by $1.7 million, primarily driven by two CRE loans totaling $7.7 million moving into this category, partially offset by $6.3 million of loans returning to less than 30 days past due, primarily home mortgage and SBA loans.
+◦Nonperforming loans increased by $768 thousand, primarily driven by $2.2 million of loans migrating into nonaccrual status, partially offset by a $1.1 million decrease in the balances of existing nonperforming loans.
+◦Criticized loans increased by $44.1 million, primarily driven by $45.7 million of loans newly entering the category during the quarter. The new additions were primarily CRE loans rated Special Mention.
+◦Special Mention loans increased by $42.9 million, primarily driven by four relationships totaling $41.5 million. An $8.2 million C&I relationship and a $5.9 million CRE relationship were downgraded primarily due to DCR covenant shortfalls but remain current. A $6.2 million CRE loan is in early delinquency due to sponsor liquidity constraints, while a $21.3 million CRE developer relationship in downtown Los Angeles remains current and performing, with the property being marketed for sale. Management continues to closely monitor these relationships and believes there is a viable path toward a positive resolution through repayment or credit upgrades over the next few quarters.
+Deposits
+($ in thousands) | As of | % Change 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025
+Amount | % | Amount | % | Amount | % | 2Q2026 | 3Q2025
+Noninterest-bearing deposits | $ | 539,257 | 22 | % | $ | 552,300 | 23 | % | $ | 543,972 | 24 | % | (2) | % | (1) | %
+Money market deposits and others | 429,464 | 18 | 426,501 | 18 | 402,891 | 18 | 1 | 7
+Time deposits | 1,461,706 | 60 | 1,389,538 | 59 | 1,326,554 | 58 | 5 | 10
+Total deposits | $ | 2,430,427 | 100 | % | $ | 2,368,339 | 100 | % | $ | 2,273,417 | 100 | % | 3 | % | 7 | %
+As of September 30, 2026 vs. June 30, 2026
+Total deposits increased by $62.1 million or 3%, primarily driven by a $72.2 million increase in time deposits. The growth was primarily attributable to higher retail time deposit balances from existing customer relationships and increased wholesale funding balances. These increases were partially offset by declines in noninterest-bearing deposits.
+As of September 30, 2026 vs. September 30, 2025
+Total deposits increased by $157.0 million or 7%, primarily driven by a $135.2 million increase in time deposits. The increase reflected continued growth in retail time deposit balances from both new and existing customer relationships, as customers continued to favor higher-yielding deposit products. Deposit growth also benefited from higher balances in wholesale time deposits and money market accounts.
+11
+The following table sets forth the maturity of time deposits as of September 30, 2026:
+As of September 30, 2026
+($ in thousands) | Within Three Months | Three to Six Months | Six to Nine Months | Nine to Twelve Months | After Twelve Months | Total
+Time deposits (greater than $250) | $ | 341,630 | $ | 280,753 | $ | 101,700 | $ | 92,911 | $ | 1,596 | $ | 818,590
+Time deposits ($250 or less) | 337,435 | 118,740 | 82,771 | 101,517 | 2,653 | 643,116
+Total time deposits | $ | 679,065 | $ | 399,493 | $ | 184,471 | $ | 194,428 | $ | 4,249 | $ | 1,461,706
+Weighted average rate | 3.95 | % | 3.89 | % | 3.96 | % | 4.12 | % | 3.46 | % | 3.96 | %
+CAPITAL
+On October 22, 2026, the Company’s Board of Directors declared a quarterly cash dividend of $0.14 per share. The dividend is payable on or about November 19, 2026, to shareholders of record as of the close of business on November 5, 2026. The principal source of funds from which the Company pays dividends are the dividends received from the Bank. During the third quarter of 2026, no shares were repurchased under the repurchase program approved in August 2025.
+OP Bancorp (1) | Open Bank (2) | Applicable Requirement (2)
+Community Bank Leverage Ratio (“CBLR”) (2)
+Tier 1 leverage | 9.09 | 10.01 | 8.00
+Risk-Based Capital Ratios (2):
+Total capital | 13.52 | % | 13.56 | % | N/A
+Tier 1 capital | 11.18 | 12.31 | N/A
+CET1 capital | 11.18 | 12.31 | N/A
+(1)CBLR framework applies only to Open Bank, and OP Bancorp’s ratios are presented solely for information purposes.
+(2)Effective September 30, 2026, Open Bank elected the CBLR framework. Accordingly, Open Bank is no longer subject to the risk-based capital ratio requirements applicable under the generally applicable capital rules. Total capital, Tier 1 capital, and CET1 capital ratios are presented for informational purposes only, while the Tier 1 leverage ratio remains the primary regulatory capital measure under the CBLR framework.
+OP Bancorp (1) | % or Basis Point Change 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025 | 2Q2026 | 3Q2025
+Risk-Based Capital Ratios:
+Total capital | 13.52 | % | 13.32 | % | 12.17 | % | 20 bps | 135 bps
+Tier 1 capital | 11.18 | 10.98 | 10.92 | 20 bps | 26 bps
+CET1 capital | 11.18 | 10.98 | 10.92 | 20 bps | 26 bps
+Tier 1 leverage | 9.09 | 9.21 | 9.01 | (12) bps | 8 bps
+Risk-weighted Assets ($ in thousands) | $ | 2,278,084 | $ | 2,267,359 | $ | 2,126,986 | 0 | % | 7 | %
+(1)CBLR framework applies only to Open Bank, and OP Bancorp’s ratios are presented solely for information purposes.
+12
+ABOUT OP BANCORP
+OP Bancorp, the holding company for Open Bank (the “Bank”), is a California corporation whose common stock is quoted on the Nasdaq Global Market under the ticker symbol, “OPBK.” The Bank operates a general commercial banking business in Los Angeles, Orange, and Santa Clara Counties in California, the Dallas metropolitan area in Texas, and Clark County in Nevada, serving small- and medium-sized businesses, professionals, and local residents with a particular focus on Korean and other Asian communities. The Bank currently operates twelve full-service branch offices in Downtown Los Angeles, Los Angeles Fashion District, Los Angeles Koreatown, Cerritos, Gardena, Buena Park, Garden Grove and Santa Clara, California, Carrollton, Texas and Las Vegas, Nevada. The Bank also has one loan production office in Bellevue, Washington. The Bank commenced its operations on June 10, 2005 as First Standard Bank and changed its name to Open Bank in October 2010. Its headquarters is located at 1000 Wilshire Blvd., Suite 500, Los Angeles, California 90017. Phone: 213.892.9999; Website: www.myopenbank.com.
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+Certain matters set forth herein constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements that are not statements of historical fact are forward-looking, and readers should not construe these statements of assurances of expected or intended results, or of promises that management will take a given course of action or pursue the currently expected strategies and objectives. Forward-looking statements in this report include comments about the Company’s current business plans and expectations regarding future operating results, as well as management’s statements about expected future events and economic developments, plans, strategies and objectives. All such statements reflect the current intentions, beliefs and expectations of the Company’s executive management based on currently available information and current and expected market conditions. Forward-looking statements can sometimes be identified by the use of forward-looking language, such as “likely result in,” “expects,” “anticipates,” “estimates,” “forecasts,” “projects,” “intends to,” or may include other similar words or phrases, such as “believes,” “plans,” “trend,” “objective,” “continues,” “remains,” or similar expressions, or future or conditional verbs, such as “will,” “would,” “should,” “could,” “may,” “might,” “can,” or similar verbs. Readers should not construe these statements as assurances of a given level of performance, or as promises that we will take the actions our management currently expects.
+Our forward-looking statements are subject to risks and uncertainties that could cause actual results, performance or achievements to differ materially from those projected or could cause us to change plans or strategies or otherwise to take actions that differ from those we currently expect. The known risks and uncertainties that may have these effects are described in Part II, Item 1A, of our Quarterly Report on Form 10-Q for the period ended June 30, 2026 under the heading “Risk Factors”, and in our other filings with the Securities and Exchange Commission. You should read all forward-looking statements in the context of the foregoing and should not consider them to be reliable predictions of future events or as assurances of a particular level of performance or intended course of action. Any forward-looking statement speaks only as of the date on which it is made, and we do not undertake any obligation to update or review any forward-looking statement, whether as a result of new information, future developments or otherwise except as required by applicable law.
+Contact
+Investor Relations
+OP Bancorp
+Jaehyun Park
+EVP & CFO
+213.593.4865
+jaehyun.park@myopenbank.com
+13
+CONSOLIDATED BALANCE SHEETS (unaudited)
+($ in thousands, except share and per share data) | As of | % Change 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025 | 2Q2026 | 3Q2025
+Assets
+Cash and due from banks | $ | 21,915 | $ | 21,812 | $ | 10,931 | 0 | % | 100 | %
+Interest-bearing deposits with other banks | 220,984 | 153,239 | 155,817 | 44 | 42
+Cash and cash equivalents | 242,899 | 175,051 | 166,748 | 39 | 46
+AFS debt securities, at fair value | 187,146 | 202,506 | 200,760 | (8) | (7)
+Other investments | 18,711 | 18,824 | 17,164 | (1) | 9
+Loans held-for-sale | 6,160 | 21,305 | 6,480 | (71) | (5)
+CRE | 1,199,046 | 1,190,117 | 1,092,808 | 1 | 10
+SBA | 302,201 | 278,554 | 256,211 | 8 | 18
+C&I | 186,444 | 221,623 | 214,419 | (16) | (13)
+Home mortgage | 600,017 | 568,512 | 587,641 | 6 | 2
+Consumer and other | 121 | 255 | 138 | (53) | (12)
+Gross loans | 2,287,829 | 2,259,061 | 2,151,217 | 1 | 6
+Allowance for credit losses on loans | (28,836) | (28,100) | (27,299) | 3 | 6
+Net loans | 2,258,993 | 2,230,961 | 2,123,918 | 1 | 6
+Premises and equipment, net | 5,185 | 5,298 | 6,995 | (2) | (26)
+Accrued interest receivable | 10,338 | 10,172 | 10,337 | 2 | 0
+Servicing assets | 10,619 | 10,280 | 10,429 | 3 | 2
+Company owned life insurance | 24,159 | 23,975 | 23,437 | 1 | 3
+Deferred tax assets, net | 15,046 | 12,456 | 12,099 | 21 | 24
+Other real estate owned ("OREO") | — | — | 845 | — | (100)
+Operating right-of-use assets | 7,733 | 7,732 | 9,347 | 0 | (17)
+Other assets | 22,446 | 25,746 | 25,655 | (13) | (13)
+Total assets | $ | 2,809,435 | $ | 2,744,306 | $ | 2,614,214 | 2 | % | 7 | %
+Liabilities and Shareholders' Equity
+Liabilities:
+Noninterest-bearing | $ | 539,257 | $ | 552,300 | $ | 543,972 | (2) | % | (1) | %
+Money market and others | 429,464 | 426,501 | 402,891 | 1 | 7
+Time deposits greater than $250 | 818,590 | 746,386 | 667,883 | 10 | 23
+Other time deposits | 643,116 | 643,152 | 658,671 | 0 | (2)
+Total deposits | 2,430,427 | 2,368,339 | 2,273,417 | 3 | 7
+FHLB advances | 75,000 | 75,000 | 75,000 | — | —
+Subordinated note | 24,650 | 24,629 | — | 0 | NM
+Accrued interest payable | 16,524 | 15,949 | 15,968 | 4 | 3
+Operating lease liabilities | 9,752 | 9,865 | 11,826 | (1) | (18)
+Other liabilities | 13,135 | 11,881 | 16,504 | 11 | (20)
+Total liabilities | 2,569,488 | 2,505,663 | 2,392,715 | 3 | 7
+Shareholders' equity:
+Common stock | 73,018 | 73,018 | 72,984 | — | 0
+Additional paid-in capital | 12,254 | 12,128 | 11,658 | 1 | 5
+Retained earnings | 170,296 | 164,624 | 148,031 | 3 | 15
+Accumulated other comprehensive loss, net of tax | (15,621) | (11,127) | (11,174) | 40 | 40
+Total shareholders’ equity | 239,947 | 238,643 | 221,499 | 1 | 8
+Total liabilities and shareholders' equity | $ | 2,809,435 | $ | 2,744,306 | $ | 2,614,214 | 2 | % | 7 | %
+Shares of common stock outstanding, at period-end | 14,932,615 | 14,926,750 | 14,885,614 | 0 | % | 0 | %
+Book value per share | $ | 16.07 | $ | 15.99 | $ | 14.88 | 1 | % | 8 | %
+Shareholders' equity to asset ratio | 8.54 | % | 8.70 | % | 8.47 | % | (2) | % | 1 | %
+NM — Not Meaningful
+14
+CONSOLIDATED STATEMENTS OF INCOME (unaudited)
+($ in thousands, except share and per share data) | For the Three Months Ended | Change 3Q2026 vs.
+3Q2026 | 2Q2026 | 3Q2025 | 2Q2026 | 3Q2025
+Interest income
+Interest and fees on loans | $ | 37,627 | $ | 35,731 | $ | 35,001 | 5 | % | 8 | %
+Interest on AFS debt securities | 1,775 | 1,824 | 1,699 | (3) | 4
+Other interest income | 1,975 | 638 | 1,822 | 210 | 8
+Total interest income | 41,377 | 38,193 | 38,522 | 8 | 7
+Interest expense
+Interest on deposits | 17,905 | 16,891 | 17,442 | 6 | 3
+Interest on borrowings | 775 | 744 | 734 | 4 | 6
+Interest on subordinated note | 490 | 490 | — | — | NM
+Total interest expense | 19,170 | 18,125 | 18,176 | 6 | 5
+Net interest income | 22,207 | 20,068 | 20,346 | 11 | 9
+Provision for (reversal of) credit losses | 1,597 | (149) | 1,175 | NM | 36
+Net interest income after provision for credit losses | 20,610 | 20,217 | 19,171 | 2 | 8
+Noninterest income
+Service charges on deposits | 468 | 515 | 725 | (9) | (35)
+Loan servicing fees, net of amortization | 980 | 974 | 724 | 1 | 35
+Gains on sale of loans | 3,277 | 3,370 | 2,037 | (3) | 61
+Other income | 570 | 792 | 644 | (28) | (11)
+Total noninterest income | 5,295 | 5,651 | 4,130 | (6) | 28
+Noninterest expense
+Salaries and employee benefits | 9,452 | 9,733 | 8,892 | (3) | 6
+Occupancy and equipment | 1,827 | 1,901 | 1,676 | (4) | 9
+Data processing and communication | 513 | 380 | 263 | 35 | 95
+Professional fees | 1,129 | 454 | 419 | 149 | 169
+FDIC insurance and regulatory assessments | 385 | 387 | 428 | (1) | (10)
+Promotion and advertising | 224 | 104 | 126 | 115 | 78
+Directors’ fees | 155 | 164 | 151 | (5) | 3
+Foundation donation and other contributions | 750 | 811 | 671 | (8) | 12
+Other expenses | 1,077 | 892 | 1,003 | 21 | 7
+Total noninterest expense | 15,512 | 14,826 | 13,629 | 5 | 14
+Income before income tax expense | 10,393 | 11,042 | 9,672 | (6) | 7
+Income tax expense | 2,630 | 3,064 | 2,969 | (14) | (11)
+Net income | $ | 7,763 | $ | 7,978 | $ | 6,703 | (3) | % | 16 | %
+EPS - basic | $ | 0.52 | $ | 0.54 | $ | 0.45 | $ | (0.02) | $ | 0.07
+EPS - diluted | 0.52 | 0.53 | 0.45 | (0.01) | 0.07
+Weighted average shares:
+- Basic | 14,932,615 | 14,903,398 | 14,885,614 | 0 | % | 0 | %
+- Diluted | 14,956,018 | 14,942,130 | 14,919,474 | 0 | 0
+ROAA (1) | 1.11 | % | 1.18 | % | 1.04 | % | (7) bps | 7 bps
+ROAE (1) | 12.94 | 13.61 | 12.36 | (67) bps | 58 bps
+Efficiency ratio (2) | 56.40 | 57.64 | 55.68 | (124) bps | 72 bps
+NM — Not Meaningful
+(1)Annualized.
+(2)Represents noninterest expense divided by the sum of net interest income and noninterest income.
+15
+CONSOLIDATED STATEMENTS OF INCOME (unaudited)
+($ in thousands, except share and per share data) | For the Nine Months Ended
+3Q2026 | 3Q2025 | Change
+Interest income
+Interest and fees on loans | $ | 108,237 | $ | 100,953 | 7 | %
+Interest on AFS debt securities | 5,360 | 4,632 | 16
+Other interest income | 4,510 | 5,461 | (17)
+Total interest income | 118,107 | 111,046 | 6
+Interest expense
+Interest on deposits | 51,641 | 51,525 | 0
+Interest on borrowings | 2,198 | 2,036 | 8
+Interest on subordinated note | 1,470 | — | NM
+Total interest expense | 55,309 | 53,561 | 3
+Net interest income | 62,798 | 57,485 | 9
+Provision for credit losses | 1,860 | 3,117 | (40)
+Net interest income after provision for credit losses | 60,938 | 54,368 | 12
+Noninterest income
+Service charges on deposits | 1,446 | 2,742 | (47) | %
+Loan servicing fees, net of amortization | 2,676 | 2,631 | 2
+Gains on sale of loans | 8,697 | 5,497 | 58
+Other income | 2,159 | 2,044 | 6
+Total noninterest income | 14,978 | 12,914 | 16
+Noninterest expense
+Salaries and employee benefits | 28,461 | 26,743 | 6
+Occupancy and equipment | 5,539 | 4,841 | 14
+Data processing and communication | 1,304 | 865 | 51
+Professional fees | 1,982 | 1,244 | 59
+FDIC insurance and regulatory assessments | 1,190 | 1,421 | (16)
+Promotion and advertising | 448 | 514 | (13)
+Directors’ fees | 463 | 529 | (12)
+Foundation donation and other contributions | 2,286 | 1,863 | 23
+Other expenses | 2,898 | 3,460 | (16)
+Total noninterest expense | 44,571 | 41,480 | 7
+Income before income tax expense | 31,345 | 25,802 | 21
+Income tax expense | 8,370 | 7,206 | 16
+Net income | $ | 22,975 | $ | 18,596 | 24 | %
+EPS - basic | $ | 1.54 | $ | 1.25 | $ | 0.29
+EPS - diluted | 1.54 | 1.25 | 0.29
+Weighted average shares:
+- Basic | 14,909,133 | 14,867,626 | 0 | %
+- Diluted | 14,941,352 | 14,894,309 | 0 | %
+ROAA (1) | 1.13 | % | 0.99 | % | 14 bps
+ROAE (1) | 13.03 | 11.70 | 133 bps
+Efficiency ratio (2) | 57.31 | 58.92 | (161) bps
+NM — Not Meaningful
+(1)Annualized.
+(2)Represents noninterest expense divided by the sum of net interest income and noninterest income.
+16
+ASSET QUALITY BY LOAN TYPE
+($ in thousands) | 3Q2026 | 2Q2026 | 3Q2025
+Accruing delinquent loans 30-89 days past due by loan type:
+CRE | $ | 6,150 | $ | 723 | $ | —
+SBA | — | 3,173 | 1,390
+C&I | — | 26 | 617
+Home mortgage | — | 3,152 | 852
+Total 30-59 days | 6,150 | 7,074 | 2,859
+CRE | 1,521 | — | —
+SBA | 1,574 | 972 | 378
+C&I | — | 77 | —
+Home mortgage | 2,956 | 2,363 | 2,149
+Total 60-89 days | 6,051 | 3,412 | 2,527
+CRE | 7,671 | 723 | —
+SBA | 1,574 | 4,145 | 1,768
+C&I | — | 103 | 617
+Home mortgage | 2,956 | 5,515 | 3,001
+Total accruing delinquent loans 30-89 days past due | $ | 12,201 | $ | 10,486 | $ | 5,386
+Nonaccrual loans (1) by loan type:
+CRE | $ | 4,380 | $ | 3,747 | $ | 2,365
+SBA | 11,945 | 11,200 | 8,538
+C&I | 12 | — | —
+Home mortgage | 1,695 | 1,425 | 1,409
+Total nonaccrual | $ | 18,032 | $ | 16,372 | $ | 12,312
+Criticized loans (2) by loan type:
+CRE | $ | 41,950 | $ | 7,217 | $ | 9,345
+SBA | 22,886 | 21,859 | 14,925
+C&I | 9,497 | 1,390 | 864
+Home mortgage | 3,223 | 2,962 | 2,941
+Total criticized | $ | 77,556 | $ | 33,428 | $ | 28,075
+(1)Excludes the guaranteed portion of loans that were in liquidation totaling $38.3 million, $30.5 million and $17.6 million as of September 30, 2026, June 30, 2026 and September 30, 2025, respectively.
+(2)Excludes the guaranteed portion of loans that were in liquidation totaling $43.5 million, $35.8 million and $20.8 million as of September 30, 2026, June 30, 2026 and September 30, 2025, respectively.
+17
+AVERAGE BALANCE SHEET, INTEREST AND YIELD/RATE ANALYSIS
+For the Three Months Ended
+3Q2026 | 2Q2026 | 3Q2025
+($ in thousands) | Average Balance | Interest Income/Expense | Average Yield/Rate(1) | Average Balance | Interest Income/Expense | Average Yield/Rate(1) | Average Balance | Interest Income/Expense | Average Yield/Rate(1)
+Interest-earning assets:
+Interest-bearing deposits with other banks | $ | 153,856 | $ | 1,469 | 3.74 | % | $ | 128,022 | $ | 416 | 1.29 | % | (2) | $ | 134,263 | $ | 1,502 | 4.38 | %
+Other investments | 18,803 | 506 | 10.76 | 18,531 | 222 | 4.79 | 17,112 | 320 | 7.48
+AFS debt securities, at fair value | 197,843 | 1,775 | 3.59 | 206,877 | 1,824 | 3.53 | 199,766 | 1,699 | 3.40
+CRE | 1,203,069 | 19,385 | 6.39 | 1,171,097 | 18,691 | 6.40 | 1,065,460 | 16,689 | 6.21
+SBA | 327,567 | 6,568 | 7.95 | 314,060 | 6,077 | 7.76 | 286,556 | 6,841 | 9.47
+C&I | 218,623 | 3,758 | 6.82 | 206,978 | 3,517 | 6.82 | 188,146 | 3,537 | 7.46
+Home mortgage | 584,220 | 7,903 | 5.41 | 560,842 | 7,437 | 5.30 | 591,939 | 7,931 | 5.36
+Consumer and other | 646 | 13 | 7.82 | 293 | 9 | 11.76 | 129 | 3 | 9.86
+Loans (2) | 2,334,125 | 37,627 | 6.41 | 2,253,270 | 35,731 | 6.36 | 2,132,230 | 35,001 | 6.52
+Total interest-earning assets | 2,704,627 | 41,377 | 6.08 | 2,606,700 | 38,193 | 5.87 | 2,483,371 | 38,522 | 6.16
+Noninterest-earning assets | 87,991 | 87,072 | 83,238
+Total assets | $ | 2,792,618 | $ | 2,693,772 | $ | 2,566,609
+Interest-bearing liabilities:
+Money market deposits and others | $ | 453,649 | $ | 3,713 | 3.25 | % | $ | 404,975 | $ | 3,174 | 3.14 | % | $ | 425,248 | $ | 3,793 | 3.54 | %
+Time deposits | 1,420,357 | 14,192 | 3.96 | 1,392,628 | 13,717 | 3.95 | 1,275,417 | 13,649 | 4.25
+Total interest-bearing deposits | 1,874,006 | 17,905 | 3.79 | 1,797,603 | 16,891 | 3.77 | 1,700,665 | 17,442 | 4.07
+Borrowings | 81,359 | 775 | 3.78 | 81,816 | 744 | 3.65 | 76,250 | 734 | 3.82
+Subordinated note | 24,643 | 490 | 7.95 | 24,622 | 490 | 7.96 | — | — | —
+Total interest-bearing liabilities | 1,980,008 | 19,170 | 3.84 | 1,904,041 | 18,125 | 3.82 | 1,776,915 | 18,176 | 4.06
+Noninterest-bearing liabilities:
+Noninterest-bearing deposits | 534,053 | 518,218 | 528,926
+Other noninterest-bearing liabilities | 38,545 | 36,969 | 43,890
+Total noninterest-bearing liabilities | 572,598 | 555,187 | 572,816
+Shareholders’ equity | 240,012 | 234,544 | 216,878
+Total liabilities and shareholders’ equity | $ | 2,792,618 | $ | 2,693,772 | $ | 2,566,609
+Net interest income / interest rate spreads | $ | 22,207 | 2.24 | % | $ | 20,068 | 2.05 | % | $ | 20,346 | 2.10 | %
+Net interest margin | 3.27 | % | 3.08 | % | 3.26 | %
+Cost of deposits & cost of funds:
+Total deposits / cost of deposits | $ | 2,408,059 | $ | 17,905 | 2.95 | % | $ | 2,315,821 | $ | 16,891 | 2.93 | % | $ | 2,229,591 | $ | 17,442 | 3.10 | %
+Total funding liabilities / cost of funds | 2,514,061 | 19,170 | 3.03 | 2,422,259 | 18,125 | 3.00 | 2,305,841 | 18,176 | 3.13
+18
+For the Nine Months Ended
+3Q2026 | 3Q2025
+($ in thousands) | Average Balance | Interest Income/Expense | Average Yield/Rate (1) | Average Balance | Interest Income/Expense | Average Yield/Rate (1)
+Interest-earning assets:
+Interest-bearing deposits with other banks | $ | 142,329 | $ | 3,212 | 2.98 | % | (2) | $ | 135,439 | $ | 4,522 | 4.40 | %
+Other investments | 18,194 | 1,298 | 9.51 | 16,851 | 939 | 7.43
+AFS debt securities, at fair value | 203,296 | 5,360 | 3.52 | 188,258 | 4,632 | 3.28
+CRE | 1,176,405 | 55,890 | 6.35 | 1,031,854 | 47,681 | 6.18
+SBA | 311,610 | 18,624 | 7.99 | 278,621 | 19,666 | 9.44
+C&I | 212,765 | 10,828 | 6.80 | 198,512 | 10,982 | 7.40
+Home mortgage | 570,146 | 22,848 | 5.34 | 568,811 | 22,612 | 5.30
+Consumer & other | 849 | 47 | 7.36 | 146 | 12 | 10.85
+Loans (3) | 2,271,775 | 108,237 | 6.37 | 2,077,944 | 100,953 | 6.49
+Total interest-earning assets | 2,635,594 | 118,107 | 5.99 | 2,418,492 | 111,046 | 6.13
+Noninterest-earning assets | 84,005 | 81,505
+Total assets | $ | 2,719,599 | $ | 2,499,997
+Interest-bearing liabilities:
+Money market deposits and others | $ | 417,510 | $ | 9,897 | 3.17 | % | $ | 396,168 | $ | 10,463 | 3.53 | %
+Time deposits | 1,401,268 | 41,744 | 3.98 | 1,250,518 | 41,062 | 4.39
+Total interest-bearing deposits | 1,818,778 | 51,641 | 3.80 | 1,646,686 | 51,525 | 4.18
+Borrowings | 79,690 | 2,198 | 3.69 | 67,290 | 2,036 | 4.05
+Subordinated note | 24,622 | 1,470 | 7.96 | — | — | —
+Total interest-bearing liabilities | 1,923,090 | 55,309 | 3.85 | 1,713,976 | 53,561 | 4.18
+Noninterest-bearing liabilities:
+Noninterest-bearing deposits | 523,061 | 532,867
+Other noninterest-bearing liabilities | 38,419 | 41,198
+Total noninterest-bearing liabilities | 561,480 | 574,065
+Shareholders’ equity | 235,029 | 211,956
+Total liabilities and shareholders’ equity | $ | 2,719,599 | $ | 2,499,997
+Net interest income / interest rate spreads | $ | 62,798 | 2.14 | % | $ | 57,485 | 1.95 | %
+Net interest margin | 3.18 | % | 3.17 | %
+Cost of deposits & cost of funds:
+Total deposits / cost of deposits | $ | 2,341,839 | $ | 51,641 | 2.95 | % | $ | 2,179,553 | $ | 51,525 | 3.16 | %
+Total funding liabilities / cost of funds | 2,446,151 | 55,309 | 3.02 | 2,246,843 | 53,561 | 3.19
+(1)Annualized.
+(2)Interest income includes a one-time $739 thousand adjustment recorded during the second quarter of 2026 related to the correction of prior-period interest accruals on the Federal Reserve Bank account.
+(3)Includes loans held-for-sale.
+19

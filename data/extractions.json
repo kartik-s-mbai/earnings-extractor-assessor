@@ -1,1 +1,276 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,271 | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet says revenues grew 24% and Google Cloud revenues grew 82%.",
+        "quote": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth, driven by demand for AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Alphabet says operating income rose 30% and operating margin widened to 34%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 34%."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Alphabet says other income was a large net gain, mainly unrealised gains on equity securities.",
+        "quote": "Other income reflected a net gain of $98.0 billion, primarily the result of net unrealized gains on our equity securities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter amazing and describes momentum across the board."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-26T02:06:46+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "For the third quarter of 2026, Amazon expects net sales of $197.0 billion to $202.0 billion.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Amazon says net sales rose 20% year over year.",
+        "quote": "Net sales increased 20% to $200.6 billion in the second quarter, compared with $167.7 billion in second quarter 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Amazon says operating income rose to $27.5 billion from $19.2 billion.",
+        "quote": "Operating income increased to $27.5 billion in the second quarter, compared with $19.2 billion in second quarter 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "Amazon says net income includes a large non-operating gain, mainly from its Anthropic investments.",
+        "quote": "Second quarter 2026 net income includes non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming and that there is a lot to be excited about."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-26T02:06:46+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601 | $ | 51,242"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | $ | 12,988 | $ | 20,535"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860 | $ | 2,709"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share (EPS) | $ | 3.83 | $ | 1.05"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth quarter 2026 total revenue of $73-76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Meta says revenue rose 26% year over year.",
+        "quote": "Revenue was $64.60 billion, an increase of 26% year-over-year on both a reported and constant currency basis."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Meta says costs and expenses rose 68% and include a litigation charge.",
+        "quote": "Total costs and expenses were $51.61 billion, an increase of 68% year-over-year. This includes the litigation charge as discussed above."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Meta says the core business is strong and investments are paying off.",
+        "quote": "Our investments are paying off, the core business is strong, and we're seeing velocity across the board."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "Meta expects strong overall revenue growth throughout 2027.",
+        "quote": "position us to sustain strong overall revenue growth throughout 2027."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says investments are paying off and the CFO expects strong revenue growth in 2027."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-26T02:06:46+08:00"
+  },
+  {
+    "cik": "1824893",
+    "company": "Surrozen, Inc./DE",
+    "accession": "0001193125-26-426828",
+    "release_date": "2026-10-20",
+    "period_end": "2026-10-20",
+    "period_label": "financing announcement of 20 October 2026, no quarter given",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "Surrozen expects its cash to fund it into 2029.",
+        "quote": "Following the closing, Surrozen expects its cash, cash equivalents and marketable securities to provide cash runway into 2029"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the financing an important milestone that strengthens the balance sheet."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1824893-0001193125-26-426828.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1824893/000119312526426828/srzn-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1824893/000119312526426828/0001193125-26-426828-index.htm",
+    "saved_at": "2026-10-26T02:06:46+08:00"
+  },
+  {
+    "cik": "1722010",
+    "company": "OP Bancorp",
+    "accession": "0001722010-26-000023",
+    "release_date": "2026-10-22",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 27.502,
+        "unit": "USD millions",
+        "quote": "Revenue | 27,502 | 25,719 | 24,476"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 7.763,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 7,763 | $ | 7,978"
+      },
+      "diluted_eps": {
+        "value": 0.52,
+        "unit": "USD per share",
+        "quote": "Diluted Earnings Per Share (“EPS”) | $ | 0.52 | $ | 0.53"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "OP Bancorp says it delivered solid results with net income of $7.8 million.",
+        "quote": "We delivered solid results in the third quarter, with net income of $7.8 million and diluted EPS of $0.52."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "OP Bancorp says loan growth supported higher net interest income and a wider margin.",
+        "quote": "Continued loan growth supported higher net interest income and further expansion in net interest margin."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes solid results and continued growth in net interest income and margin."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1722010-0001722010-26-000023.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1722010/000172201026000023/opbk8-kerx2026xq3xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1722010/000172201026000023/0001722010-26-000023-index.htm",
+    "saved_at": "2026-10-26T02:06:46+08:00"
+  }
+]
