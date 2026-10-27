@@ -272,5 +272,108 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1722010/000172201026000023/opbk8-kerx2026xq3xex991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1722010/000172201026000023/0001722010-26-000023-index.htm",
     "saved_at": "2026-10-26T02:06:46+08:00"
+  },
+  {
+    "cik": "1403475",
+    "company": "Bank of Marin Bancorp",
+    "accession": "0001403475-26-000043",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 9.934,
+        "unit": "USD millions",
+        "quote": "Net income (GAAP) | $ | 9,934 | $ | 9,246 | $ | 7,526"
+      },
+      "diluted_eps": {
+        "value": 0.62,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share (GAAP) | $ | 0.62 | $ | 0.58 | $ | 0.47"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Management says pre-tax pre-provision net income rose 17% on the previous quarter, helped by deposit costs, fee income and expenses.",
+        "quote": "Active management of deposit costs, growth in fee income, and expense discipline drove a 17% increase in pre-tax pre-provision net income on a sequential quarter basis"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CFO expects loan repricing and new loans at higher rates to support modest net interest margin expansion over time.",
+        "quote": "Continued legacy loan repricing along with new loan originations at higher rates should support modest net interest margin expansion over time."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "Management speaks of improved profitability, margin expansion and loan growth, and expects modest further margin expansion."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1403475-0001403475-26-000043.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1403475/000140347526000043/earningsrelease-ex991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1403475/000140347526000043/0001403475-26-000043-index.htm",
+    "saved_at": "2026-10-27T16:11:07+08:00"
+  },
+  {
+    "cik": "1393311",
+    "company": "Public Storage",
+    "accession": "0001628280-26-067283",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1366.19,
+        "unit": "USD millions",
+        "quote": "Total revenues | 1,366,190 | 1,224,043"
+      },
+      "operating_income": {
+        "value": 316.96,
+        "unit": "USD millions",
+        "quote": "Operating income | 316,960 | 491,517"
+      },
+      "net_income": {
+        "value": 366.926,
+        "unit": "USD millions",
+        "quote": "Net income allocable to Public Storage shareholders | 366,926 | 511,063"
+      },
+      "diluted_eps": {
+        "value": 1.69,
+        "unit": "USD per share",
+        "quote": "Net income per common share – Diluted(1) | $ | 1.69 | $ | 2.62"
+      }
+    },
+    "guidance": {
+      "text": "The company raised its 2026 outlook; Core FFO per share is now expected at $16.90 to $17.10.",
+      "quote": "Core FFO per share: | $16.90 | $17.10 | $16.75 | $17.05 | $0.10"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the quarter was better than expected, with positive Same Store revenue, NOI and Core FFO per share growth.",
+        "quote": "Public Storage’s third quarter performance was better than expected and demonstrates the strength and scalability of our platform as well as improving industry fundamentals."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Management raised its full-year 2026 outlook, including Same Store NOI and Core FFO per share.",
+        "quote": "Increased outlook for the full-year 2026, including Same Store NOI by 90bps and Core FFO per share by $0.10"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter better than expected and management raises its full-year outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1393311-0001628280-26-067283.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1393311/000162828026067283/psa-102626xex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1393311/000162828026067283/0001628280-26-067283-index.htm",
+    "saved_at": "2026-10-27T16:11:07+08:00"
   }
 ]
