@@ -1,81 +1,137 @@
 {
-  "fetched_at": "2026-10-26T07:31:05+08:00",
+  "fetched_at": "2026-10-27T08:22:13+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-10-25",
-    "end": "2026-10-25",
+    "end": "2026-10-26",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 9,
-  "answered": 9,
+  "requests": 17,
+  "answered": 17,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-25",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-26",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 88 ms"
+      "detail": "HTTP 200, 43 KB in 46 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 127 ms"
+      "detail": "HTTP 200, 148 KB in 30 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 131 ms"
+      "detail": "HTTP 200, 156 KB in 22 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 115 ms"
+      "detail": "HTTP 200, 155 KB in 21 ms"
+    },
+    {
+      "name": "Bank of Marin Bancorp filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1403475/000140347526000043/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 5 KB in 32 ms"
+    },
+    {
+      "name": "Bank of Marin Bancorp press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1403475/000140347526000043/earningsrelease-ex991q32026.htm",
+      "ok": true,
+      "detail": "HTTP 200, 727 KB in 83 ms"
+    },
+    {
+      "name": "Jazz Pharmaceuticals plc filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1232524/000162828026067275/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 1 KB in 49 ms"
+    },
+    {
+      "name": "Jazz Pharmaceuticals plc filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1232524/000162828026067275/0001628280-26-067275-index.htm",
+      "ok": true,
+      "detail": "HTTP 200, 9 KB in 46 ms"
+    },
+    {
+      "name": "Public Storage filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393311/000162828026067283/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 1 KB in 35 ms"
+    },
+    {
+      "name": "Public Storage press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393311/000162828026067283/psa-102626xex99_1.htm",
+      "ok": true,
+      "detail": "HTTP 200, 599 KB in 52 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 198 ms"
+      "detail": "HTTP 200, 3,090 KB in 186 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 223 ms"
+      "detail": "HTTP 200, 4,373 KB in 80 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,735 KB in 263 ms"
+      "detail": "HTTP 200, 2,736 KB in 33 ms"
+    },
+    {
+      "name": "Bank of Marin Bancorp company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001403475.json",
+      "ok": true,
+      "detail": "HTTP 200, 4,851 KB in 847 ms"
+    },
+    {
+      "name": "Public Storage company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001393311.json",
+      "ok": true,
+      "detail": "HTTP 200, 3,155 KB in 92 ms"
     },
     {
       "name": "Surrozen, Inc./DE company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001824893.json",
       "ok": true,
-      "detail": "HTTP 200, 801 KB in 486 ms"
+      "detail": "HTTP 200, 801 KB in 86 ms"
     },
     {
       "name": "OP Bancorp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001722010.json",
       "ok": true,
-      "detail": "HTTP 200, 2,426 KB in 452 ms"
+      "detail": "HTTP 200, 2,426 KB in 346 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001393311.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001403475.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001722010.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001824893.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
-    "efts.sec.gov_search-index_from0.json"
+    "efts.sec.gov_search-index_from0.json",
+    "www.sec.gov_Archives_edgar_data_1232524_000162828026067275_0001628280-26-067275-index.htm",
+    "www.sec.gov_Archives_edgar_data_1232524_000162828026067275_index.json",
+    "www.sec.gov_Archives_edgar_data_1393311_000162828026067283_index.json",
+    "www.sec.gov_Archives_edgar_data_1393311_000162828026067283_psa-102626xex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_1403475_000140347526000043_earningsrelease-ex991q32026.htm",
+    "www.sec.gov_Archives_edgar_data_1403475_000140347526000043_index.json"
   ]
 }
