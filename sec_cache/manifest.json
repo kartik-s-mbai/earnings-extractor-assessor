@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T08:27:36+08:00",
+  "fetched_at": "2026-10-28T08:42:59+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,115 +16,115 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 417 ms"
+      "detail": "HTTP 200, 60 KB in 238 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 440 ms"
+      "detail": "HTTP 200, 60 KB in 68 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27&from=200",
       "ok": true,
-      "detail": "HTTP 200, 30 KB in 85 ms"
+      "detail": "HTTP 200, 30 KB in 70 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 95 ms"
+      "detail": "HTTP 200, 148 KB in 118 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 56 ms"
+      "detail": "HTTP 200, 156 KB in 112 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 155 KB in 62 ms"
+      "detail": "HTTP 200, 155 KB in 78 ms"
     },
     {
       "name": "Ribbon Communications Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1708055/000110465926119166/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 125 ms"
+      "detail": "HTTP 200, 1 KB in 260 ms"
     },
     {
       "name": "Ribbon Communications Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1708055/000110465926119166/tm2628346d1_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 285 KB in 124 ms"
+      "detail": "HTTP 200, 285 KB in 281 ms"
     },
     {
       "name": "VISA INC. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000126/index.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 40 ms"
+      "detail": "HTTP 200, 2 KB in 107 ms"
     },
     {
       "name": "VISA INC. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000126/0001403161-26-000126-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 11 KB in 47 ms"
+      "detail": "HTTP 200, 11 KB in 147 ms"
     },
     {
       "name": "VISA INC. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000126/q42026earningsrelease.htm",
       "ok": true,
-      "detail": "HTTP 200, 498 KB in 87 ms"
+      "detail": "HTTP 200, 498 KB in 165 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 125 ms"
+      "detail": "HTTP 200, 3,090 KB in 122 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 144 ms"
+      "detail": "HTTP 200, 4,373 KB in 126 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,736 KB in 159 ms"
+      "detail": "HTTP 200, 2,736 KB in 115 ms"
     },
     {
       "name": "Ribbon Communications Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001708055.json",
       "ok": true,
-      "detail": "HTTP 200, 2,610 KB in 286 ms"
+      "detail": "HTTP 200, 2,610 KB in 115 ms"
     },
     {
       "name": "VISA INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001403161.json",
       "ok": true,
-      "detail": "HTTP 200, 3,480 KB in 147 ms"
+      "detail": "HTTP 200, 3,480 KB in 122 ms"
     },
     {
       "name": "Surrozen, Inc./DE company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001824893.json",
       "ok": true,
-      "detail": "HTTP 200, 801 KB in 392 ms"
+      "detail": "HTTP 200, 801 KB in 343 ms"
     },
     {
       "name": "OP Bancorp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001722010.json",
       "ok": true,
-      "detail": "HTTP 200, 2,426 KB in 193 ms"
+      "detail": "HTTP 200, 2,426 KB in 262 ms"
     },
     {
       "name": "Bank of Marin Bancorp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001403475.json",
       "ok": true,
-      "detail": "HTTP 200, 4,851 KB in 615 ms"
+      "detail": "HTTP 200, 4,851 KB in 480 ms"
     }
   ],
   "files": [
