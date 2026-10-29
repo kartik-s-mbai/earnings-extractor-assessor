@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T08:50:11+08:00",
+  "fetched_at": "2026-10-29T09:12:31+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,143 +16,143 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-28",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 1042 ms"
+      "detail": "HTTP 200, 60 KB in 105 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-28&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 1886 ms"
+      "detail": "HTTP 200, 59 KB in 83 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-28&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 130 ms"
+      "detail": "HTTP 200, 60 KB in 71 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-28&from=300",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 609 ms"
+      "detail": "HTTP 200, 61 KB in 75 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-28&from=400",
       "ok": true,
-      "detail": "HTTP 200, 54 KB in 1478 ms"
+      "detail": "HTTP 200, 54 KB in 117 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 144 ms"
+      "detail": "HTTP 200, 149 KB in 67 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 196 ms"
+      "detail": "HTTP 200, 1 KB in 136 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 325 ms"
+      "detail": "HTTP 200, 361 KB in 327 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 80 ms"
+      "detail": "HTTP 200, 156 KB in 38 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 134 ms"
+      "detail": "HTTP 200, 156 KB in 39 ms"
     },
     {
-      "name": "UNIVERSAL HEALTH REALTY INCOME TRUST filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/798783/000119312526434277/index.json",
+      "name": "NORWOOD FINANCIAL CORP filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013272/000101327226000024/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 410 ms"
+      "detail": "HTTP 200, 5 KB in 56 ms"
     },
     {
-      "name": "UNIVERSAL HEALTH REALTY INCOME TRUST press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/798783/000119312526434277/uht-ex99_1.htm",
+      "name": "NORWOOD FINANCIAL CORP press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013272/000101327226000024/nwfl-20261027xex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 534 KB in 254 ms"
+      "detail": "HTTP 200, 2,085 KB in 98 ms"
     },
     {
       "name": "Capitol Federal Financial, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1490906/000149090626000036/index.json",
       "ok": true,
-      "detail": "HTTP 200, 5 KB in 86 ms"
+      "detail": "HTTP 200, 5 KB in 56 ms"
     },
     {
       "name": "Capitol Federal Financial, Inc. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/1490906/000149090626000036/0001490906-26-000036-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 21 KB in 120 ms"
+      "detail": "HTTP 200, 21 KB in 48 ms"
     },
     {
       "name": "Capitol Federal Financial, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1490906/000149090626000036/earningsrelease0926.htm",
       "ok": true,
-      "detail": "HTTP 200, 1,574 KB in 231 ms"
+      "detail": "HTTP 200, 1,574 KB in 80 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 126 ms"
+      "detail": "HTTP 200, 3,090 KB in 235 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 140 ms"
+      "detail": "HTTP 200, 4,373 KB in 129 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,737 KB in 140 ms"
+      "detail": "HTTP 200, 2,737 KB in 70 ms"
     },
     {
-      "name": "UNIVERSAL HEALTH REALTY INCOME TRUST company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000798783.json",
+      "name": "NORWOOD FINANCIAL CORP company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001013272.json",
       "ok": true,
-      "detail": "HTTP 200, 2,129 KB in 335 ms"
+      "detail": "HTTP 200, 4,212 KB in 343 ms"
     },
     {
       "name": "Capitol Federal Financial, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001490906.json",
       "ok": true,
-      "detail": "HTTP 200, 4,318 KB in 299 ms"
+      "detail": "HTTP 200, 4,318 KB in 92 ms"
     },
     {
       "name": "Surrozen, Inc./DE company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001824893.json",
       "ok": true,
-      "detail": "HTTP 200, 801 KB in 321 ms"
+      "detail": "HTTP 200, 801 KB in 43 ms"
     },
     {
       "name": "OP Bancorp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001722010.json",
       "ok": true,
-      "detail": "HTTP 200, 2,426 KB in 283 ms"
+      "detail": "HTTP 200, 2,426 KB in 672 ms"
     },
     {
       "name": "Bank of Marin Bancorp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001403475.json",
       "ok": true,
-      "detail": "HTTP 200, 4,851 KB in 375 ms"
+      "detail": "HTTP 200, 4,851 KB in 351 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000798783.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001013272.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001403475.json",
@@ -168,12 +168,12 @@
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
     "efts.sec.gov_search-index_from400.json",
+    "www.sec.gov_Archives_edgar_data_1013272_000101327226000024_index.json",
+    "www.sec.gov_Archives_edgar_data_1013272_000101327226000024_nwfl-20261027xex99_1.htm",
     "www.sec.gov_Archives_edgar_data_1490906_000149090626000036_0001490906-26-000036-index.htm",
     "www.sec.gov_Archives_edgar_data_1490906_000149090626000036_earningsrelease0926.htm",
     "www.sec.gov_Archives_edgar_data_1490906_000149090626000036_index.json",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
-    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
-    "www.sec.gov_Archives_edgar_data_798783_000119312526434277_index.json",
-    "www.sec.gov_Archives_edgar_data_798783_000119312526434277_uht-ex99_1.htm"
+    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json"
   ]
 }
