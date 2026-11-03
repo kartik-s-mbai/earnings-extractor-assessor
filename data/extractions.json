@@ -375,5 +375,241 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1393311/000162828026067283/psa-102626xex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1393311/000162828026067283/0001628280-26-067283-index.htm",
     "saved_at": "2026-10-27T16:11:07+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,228 | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 25% year over year, the 13th consecutive quarter of double-digit growth.",
+        "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion, reflecting strong performance across the business and our 13th consecutive quarter of double-digit revenue growth."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Google Cloud revenues grew 103%, driven by demand for AI infrastructure and AI solutions.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and the operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and points to growth across Search, Cloud and AI products."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:07:40+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects fourth quarter 2026 net sales of $240.0 billion to $247.0 billion, growth of 12% to 16%.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales increased 12% to $201.9 billion in the quarter.",
+        "quote": "Net sales increased 12% to $201.9 billion in the third quarter, compared with $180.2 billion in third quarter 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating margin was 13.9%, which Amazon calls its highest ever.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%—Amazon’s highest operating margin ever"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income fell to $20.7 billion, mainly because of 2025 gains on Anthropic investments.",
+        "quote": "Net income decreased to $20.7 billion in the third quarter, or $1.89 per diluted share, compared with $21.2 billion, or $1.95 per diluted share, in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the AWS investment is working and sees retail share gains with improving margins."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:07:40+08:00"
+  },
+  {
+    "cik": "105770",
+    "company": "WEST PHARMACEUTICAL SERVICES INC",
+    "accession": "0000105770-26-000118",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 874.5,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 874.5 | 100% | $ | 804.6"
+      },
+      "operating_income": {
+        "value": 267.4,
+        "unit": "USD millions",
+        "quote": "Operating profit | 267.4 | 31 | 167.6"
+      },
+      "net_income": {
+        "value": 214.0,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 214.0 | 24% | $ | 140.0"
+      },
+      "diluted_eps": {
+        "value": 3.02,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 3.02 | $ | 1.92"
+      }
+    },
+    "guidance": {
+      "text": "West raised its full-year 2026 net sales guidance to $3.41 billion to $3.42 billion.",
+      "quote": "Full-year 2026 net sales guidance increased to a range of $3.41 billion to $3.42 billion, up from the previous range of $3.345 billion to $3.380 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales were $874.5 million, up 8.7%, with organic growth of 11.9%.",
+        "quote": "Net sales of $874.5 million increased 8.7%; organic growth was 11.9%."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says strong sales drove operating income margin expansion and EPS growth.",
+        "quote": "The robust sales performance drove strong operating income margin expansion and EPS growth."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says full-year 2026 guidance is being increased.",
+        "quote": "As a result of our team's strong execution in the third quarter, we are increasing our full-year 2026 guidance."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO reports strong results that exceeded expectations and raises full-year guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/105770-0000105770-26-000118.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/105770/000010577026000118/exh991q32026earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/105770/000010577026000118/0000105770-26-000118-index.htm",
+    "saved_at": "2026-11-04T06:07:40+08:00"
+  },
+  {
+    "cik": "922621",
+    "company": "ERIE INDEMNITY CO",
+    "accession": "0001628280-26-068265",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": 207.382,
+        "unit": "USD millions",
+        "quote": "Operating income | $ | 207,382 | $ | 208,921"
+      },
+      "net_income": {
+        "value": 181.989,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 181,989 | $ | 182,853"
+      },
+      "diluted_eps": {
+        "value": 3.48,
+        "unit": "USD per share",
+        "quote": "Net income was $182.0 million, or $3.48 per diluted share, in the third quarter of 2026"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Net income was $182.0 million, against $182.9 million a year earlier.",
+        "quote": "Net income was $182.0 million, or $3.48 per diluted share, in the third quarter of 2026, compared to $182.9 million, or $3.50 per diluted share, in the third quarter of 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Operating income before taxes fell 0.7% in the quarter.",
+        "quote": "Operating income before taxes decreased $1.5 million, or 0.7 percent, in the third quarter of 2026 compared to the third quarter of 2025."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The release states results factually, with profit about flat and no executive commentary."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/922621-0001628280-26-068265.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/922621/000162828026068265/ex-99109302026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/922621/000162828026068265/0001628280-26-068265-index.htm",
+    "saved_at": "2026-11-04T06:07:40+08:00"
   }
 ]
