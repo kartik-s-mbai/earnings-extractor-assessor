@@ -611,5 +611,136 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/922621/000162828026068265/ex-99109302026.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/922621/000162828026068265/0001628280-26-068265-index.htm",
     "saved_at": "2026-11-04T06:07:40+08:00"
+  },
+  {
+    "cik": "1172052",
+    "company": "SAFETY INSURANCE GROUP INC",
+    "accession": "0001172052-26-000029",
+    "release_date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 327.77,
+        "unit": "USD millions",
+        "quote": "Total revenue | 327,770"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 30.019,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 30,019"
+      },
+      "diluted_eps": {
+        "value": 2.05,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 2.05"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "The CEO says the combined ratio improved to 96.3% from 98.9% a year earlier.",
+        "quote": "For the quarter ended September 30, 2026, our combined ratio improved to 96.3% compared to 98.9% in the same period in the prior year."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO links the ratio to earlier premium growth and lower losses from better loss frequency in private passenger automobile.",
+        "quote": "as well as a decrease in losses and loss adjustment expenses incurred, driven by improved loss frequency in our private passenger automobile line"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The CEO says higher net income reflects better underwriting and record quarterly net investment income.",
+        "quote": "The increase in net income reflects the impact of improved underwriting results and the largest quarterly net investment income results in our Company’s history."
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "Shareholders voted for the acquisition by a Mapfre affiliate, which still needs regulatory approval.",
+        "quote": "On November 3, 2026, Safety’s shareholders voted in favor of the transaction which remains subject to regulatory approval."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO stresses an improved combined ratio, better underwriting and record net investment income."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1172052-0001172052-26-000029.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1172052/000117205226000029/saft-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1172052/000117205226000029/0001172052-26-000029-index.htm",
+    "saved_at": "2026-11-11T06:13:09+08:00"
+  },
+  {
+    "cik": "1114925",
+    "company": "LANTRONIX INC",
+    "accession": "0001683168-26-008441",
+    "release_date": "2026-11-09",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 32.369,
+        "unit": "USD millions",
+        "quote": "Net revenue | $ | 32,369"
+      },
+      "operating_income": {
+        "value": -0.558,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (558"
+      },
+      "net_income": {
+        "value": -0.463,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (463"
+      },
+      "diluted_eps": {
+        "value": -0.01,
+        "unit": "USD per share",
+        "quote": "Net loss per share - basic and diluted | $ | (0.01"
+      }
+    },
+    "guidance": {
+      "text": "For the second quarter of fiscal 2027, Lantronix expects net revenue of $32.5 million to $34.5 million.",
+      "quote": "Net Revenue: $32.5 million to $34.5 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue grew 8% year on year, with non-GAAP gross margins above 45% and non-GAAP net income up 50%.",
+        "quote": "delivering 8% year-over-year revenue growth, non-GAAP gross margins above 45%, and a 50% increase in year-over-year non-GAAP net income"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says Embedded IoT Solutions revenue grew 37%, driven by unmanned systems.",
+        "quote": "Our Embedded IoT Solutions revenue grew 37% year-over-year, driven by continued momentum across unmanned systems."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the Nero Global Tracking acquisition lifted pro forma software and services above 10% of revenue.",
+        "quote": "The strategic tuck-in acquisition of Nero Global Tracking has expanded our pro forma software and services mix above 10% of total revenue"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO expresses confidence in double-digit revenue growth in fiscal 2027.",
+        "quote": "Together, these developments reinforce our confidence in delivering double-digit revenue growth in fiscal 2027."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of a position of strength, revenue growth and confidence in double-digit growth for fiscal 2027."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1114925-0001683168-26-008441.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1114925/000168316826008441/lantronix_ex9901.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1114925/000168316826008441/0001683168-26-008441-index.htm",
+    "saved_at": "2026-11-11T06:13:09+08:00"
   }
 ]
