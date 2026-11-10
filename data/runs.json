@@ -3034,5 +3034,120 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-11T06:38:24+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-11-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 5,
+      "total": 5,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 5,
+      "checked": 5,
+      "rechecks": 3,
+      "confirmed": 11,
+      "mismatch": 1,
+      "cannot_check": 8
+    },
+    "companies": [
+      {
+        "cik": "1824893",
+        "company": "Surrozen, Inc./DE",
+        "accession": "0001193125-26-426828",
+        "period_label": "financing announcement of 20 October 2026, no quarter given",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1722010",
+        "company": "OP Bancorp",
+        "accession": "0001722010-26-000023",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 2,
+        "mismatch": 1,
+        "cannot_check": 1,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 4,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1403475",
+        "company": "Bank of Marin Bancorp",
+        "accession": "0001403475-26-000043",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 2,
+        "mismatch": 0,
+        "cannot_check": 2,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1172052",
+        "company": "SAFETY INSURANCE GROUP INC",
+        "accession": "0001172052-26-000029",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1114925",
+        "company": "LANTRONIX INC",
+        "accession": "0001683168-26-008441",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 5 extractions: 11 figures confirmed, 1 mismatch, 8 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-11T06:13:09+08:00",
+      "watch_brief": "briefs/2026-11-11-watch.md",
+      "brief_says": 1383,
+      "saved_for_run": 1383,
+      "match": true
+    },
+    "offline": false
   }
 ]
