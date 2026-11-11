@@ -12518,5 +12518,191 @@
     "filing_found": true,
     "recheck": false,
     "assessed_at": "2026-11-11T06:38:24+08:00"
+  },
+  {
+    "accession": "0001193125-26-426828",
+    "cik": "1824893",
+    "company": "Surrozen, Inc./DE",
+    "period_end": "2026-10-20",
+    "period_label": "financing announcement of 20 October 2026, no quarter given",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty (null); the release is a financing announcement with no quarter, and the SEC company facts could not be read today."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty (null); the release is a financing announcement with no quarter, and the SEC company facts could not be read today."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty (null); the release is a financing announcement with no quarter, and the SEC company facts could not be read today."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty (null); the release is a financing announcement with no quarter, and the SEC company facts could not be read today."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No figure was extracted, so none can be wrong; the one claim quote is in the release. The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "The release is a financing announcement and gives no results figures or guidance, so the four empty figures are not a fault."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands as a financing and cash-runway note ($95.1 million, runway into 2029), but it holds no results for the analyst to act on."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "An outlook on cash runway into 2029. The quote is in the release, which gives $95.1 million gross proceeds but no cash balance or spending table, and no quarter figures are filed, so neither can test it."
+      }
+    },
+    "tone": {
+      "verdict": "not supported",
+      "reason": "No fundamentals are filed for this financing release, so the positive tone cannot be borne out by the numbers. It is untested, not contradicted."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "Surrozen expects its cash to fund it into 2029.",
+        "quote": "Following the closing, Surrozen expects its cash, cash equivalents and marketable securities to provide cash runway into 2029",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls the financing an important milestone that strengthens the balance sheet."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-12T06:37:29+08:00"
   }
 ]
