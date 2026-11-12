@@ -742,5 +742,140 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1114925/000168316826008441/lantronix_ex9901.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1114925/000168316826008441/0001683168-26-008441-index.htm",
     "saved_at": "2026-11-11T06:13:09+08:00"
+  },
+  {
+    "cik": "843006",
+    "company": "ACCESS Newswire Inc.",
+    "accession": "0001683168-26-008458",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 5.515,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 5,515"
+      },
+      "operating_income": {
+        "value": -0.142,
+        "unit": "USD millions",
+        "quote": "Operating loss | (142 | )"
+      },
+      "net_income": {
+        "value": -0.08,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | (80 | )"
+      },
+      "diluted_eps": {
+        "value": -0.02,
+        "unit": "USD per share",
+        "quote": "Income (loss) per share – fully diluted | $ | (0.02 | )"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "The CEO says the company expanded gross margin to 75%, reached an Adjusted EBITDA margin of 15% and narrowed its operating loss on the prior-year quarter.",
+        "quote": "We increased the number of active customers by 14% year-over-year, expanded gross margin to 75%, grew average revenue per release"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says the company met its second-half margin goals and narrowed its operating loss while continuing to generate cash.",
+        "quote": "achieving Adjusted EBITDA margin of 15% and narrowed our operating loss compared to the prior-year quarter, while continuing to generate cash."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CEO expects the October reorganisation to save over $1.5 million a year, partly in the fourth quarter and fully from early 2027.",
+        "quote": "In October we streamlined our organization across sales, development, editorial and operations, which we expect to generate annualized savings over $1.5 million"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says the company is focused on returning to revenue growth in 2027.",
+        "quote": "we believe we are in a strong financial position and are focused on returning to top-line growth in 2027."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of resilience, a strong financial position and momentum, while noting a rapidly evolving news distribution market."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/843006-0001683168-26-008458.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/843006/000168316826008458/access_ex9901.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/843006/000168316826008458/0001683168-26-008458-index.htm",
+    "saved_at": "2026-11-13T06:08:17+08:00"
+  },
+  {
+    "cik": "1224133",
+    "company": "MARCHEX INC",
+    "accession": "0001193125-26-455514",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 15.974,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 15,974"
+      },
+      "operating_income": {
+        "value": 1.438,
+        "unit": "USD millions",
+        "quote": "Income (loss) from operations | 1,438"
+      },
+      "net_income": {
+        "value": 1.274,
+        "unit": "USD millions",
+        "quote": "Net income (loss) applicable to common stockholders | $ | 1,274"
+      },
+      "diluted_eps": {
+        "value": 0.03,
+        "unit": "USD per share",
+        "quote": "Net income (loss) per share applicable to common stockholders, diluted | $ | 0.03"
+      }
+    },
+    "guidance": {
+      "text": "Marchex expects fourth-quarter 2026 revenue of $15.0 million or more.",
+      "quote": "Revenue | $15.0 or more"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The Chairman says the quarter brought year-over-year revenue growth, positive GAAP net income and a large improvement in Adjusted EBITDA.",
+        "quote": "with year-over-year revenue growth, positive GAAP net income, and a significant improvement in Adjusted EBITDA"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The Chairman says the company sees early commercial traction after combining with Archenia.",
+        "quote": "we are seeing encouraging early commercial traction following our combination with Archenia"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The company says fourth-quarter seasonality usually lowers revenue and Adjusted EBITDA from the third quarter.",
+        "quote": "Marchex notes that seasonality in the fourth quarter based on lower conversational volumes typically leads to lower sequential revenue and Adjusted EBITDA."
+      },
+      {
+        "id": "M4",
+        "topic": "costs",
+        "claim": "The Chairman says the company will scale the business while keeping financial discipline.",
+        "quote": "we are focused on scaling the business while maintaining financial discipline."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The Chairman describes a new phase of growth, meaningful progress and encouraging early traction."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1224133-0001193125-26-455514.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1224133/000119312526455514/mchx-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1224133/000119312526455514/0001193125-26-455514-index.htm",
+    "saved_at": "2026-11-13T06:08:17+08:00"
   }
 ]

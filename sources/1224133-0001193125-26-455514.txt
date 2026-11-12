@@ -1,0 +1,165 @@
+Company: MARCHEX INC (CIK 1224133)
+Accession: 0001193125-26-455514
+Results released: 2026-11-10
+Press release: https://www.sec.gov/Archives/edgar/data/1224133/000119312526455514/mchx-ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1224133/000119312526455514/0001193125-26-455514-index.htm
+Saved: 2026-11-13T06:08:17+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 mchx-ex99_1.htm EX-99.1
+Exhibit 99.1
+Marchex Returns to Revenue Growth and Profitability in Third Quarter 2026
+Generates $1.3 Million in GAAP Net Income and $2.6 Million in Adjusted EBITDA (net of reorganization costs)
+Highlights Early Commercial Momentum Following Archenia Acquisition; Appoints Travis Fairchild President
+SEATTLE, WA – November 10, 2026 – Marchex, Inc. (NASDAQ: MCHX), a vertically focused, AI-driven conversation analytics, customer acquisition, and optimization company, today announced financial results for the third quarter ended September 30, 2026.
+Third Quarter 2026 Financial Highlights (Prior Year Results As Adjusted)
+•
+Revenue increased to $16.0 million, up from $15.2 million in the third quarter of 2025.
+•
+Net income was $1.3 million, or $0.03 per diluted share, compared with a net loss of $1.3 million, or $(0.03) per diluted share, in the third quarter of 2025.
+•
+Adjusted EBITDA increased to $2.4 million, compared with $0.5 million in the prior year period, with Adjusted EBITDA margin expanding to approximately 15% from 3% in the third quarter of 2025. Adjusted EBITDA includes $0.2 million of reorganization and acquisition-related costs. Adjusted EBITDA before those costs was $2.6 million, or 16%.
+•
+Adjusted non-GAAP income per share was $0.04, compared with an Adjusted non-GAAP loss of ($0.01) per share in the prior year period.
+“Our third quarter results reflect a new phase of growth and meaningful progress in strengthening Marchex's financial performance, with year-over-year revenue growth, positive GAAP net income, and a significant improvement in Adjusted EBITDA,” said Russell Horowitz, Chairman of Marchex. “At the same time, we are seeing encouraging early commercial traction following our combination with Archenia, including expanded customer relationships, new AI-powered solutions deployments, and increased opportunities to cross-sell our combined capabilities.
+“By bringing together Marchex's conversational intelligence and analytics with Archenia's AI-powered customer qualification and acquisition technologies, we are creating a differentiated platform that connects customer insights with automated actions and measurable business outcomes. We believe this positions us to capture a greater share of customer spending, expand our market opportunity, and drive profitable growth over time. As we build on our early commercial momentum, we are focused on scaling the business while maintaining financial discipline.”
+Customer, Product, and Growth Initiatives
+Marchex continues to make progress commercializing its combined AI-powered conversational intelligence, customer qualification, and acquisition technologies. Recent customer developments demonstrate the potential to expand existing relationships, generate incremental revenue, and broaden distribution of the Company's solutions.
+Key developments include:
+• Expanded AI Voice Agent Deployment: Marchex expanded its relationship with an existing advertising and media customer by deploying its AI Voice Agent solution commercially after a successful paid pilot. The customer relationship, which currently generates approximately $400,000 in annualized revenue, is expected to generate additional revenue in 2026 and more than $200,000 in incremental annualized
+revenue in 2027. The deployment demonstrates Marchex's ability to cross-sell AI-powered solutions to existing customers and to expand revenue opportunities by helping customers capture qualified leads and sales opportunities that might otherwise be missed.
+• Expanded Automotive OEM Distribution: Marchex received approval from a major automotive original equipment manufacturer (OEM) to offer its Engage for Service solution through the OEM's dealer portal, expanding distribution opportunities and enabling dealers to access OEM co-op funding for the solution. Engage for Service was previously deployed in a pilot with 75 dealerships, where it improved service operations and identified missed appointment and revenue opportunities. The approval provides a potentially scalable distribution channel to expand adoption of Engage for Service across the OEM’s dealership network.
+The Company believes these developments highlight its ability to accelerate adoption of its AI-powered solutions with meaningful cross-selling and bundling opportunities across its established enterprise customer relationships, as well as create opportunities to win new customers and unlock new markets.
+Following the July 2026 acquisition of Archenia, Marchex has been focused on integrating the companies' complementary technologies and developing solutions that combine conversational intelligence with AI-powered customer qualification, automated engagement, and verified business outcomes. These capabilities enable customers to move beyond analyzing consumer interactions to taking the automated actions designed to improve customer acquisition, appointment conversion, and revenue generation.
+Marchex Appoints Travis Fairchild President
+Marchex also announced that Travis Fairchild has been appointed President of the combined company, effective November 9, 2026. Fairchild previously served as Chief Executive Officer of Archenia, which Marchex acquired in July 2026, and brings extensive experience in AI-powered customer engagement, strategic development, and enterprise technology solutions.
+Fairchild’s appointment reflects the Company’s focus on accelerating commercialization of its combined platform and increasing adoption of Marchex’s AI-powered customer acquisition and engagement solutions. Prior to Archenia, he was with Marchex in several senior roles.
+“Travis brings a unique combination of deep institutional knowledge of Marchex, entrepreneurial leadership, and hands-on experience building and scaling AI-powered customer engagement solutions,” said Horowitz. “Having successfully led Archenia and played a key role in bringing our two businesses together, he is exceptionally well positioned to accelerate the commercialization of our combined capabilities, deepen customer relationships, and drive the next phase of growth.”
+Fairchild served as CEO of Archenia beginning in 2021, where he led the company’s strategy, sales, product development, and AI initiatives. Previously, he spent 18 years at Marchex in strategy and business development roles, helping expand the Company’s call analytics capabilities, execute strategic acquisitions, and develop solutions for Fortune 500 customers.
+Troy Hartless, previously President of Marchex, will continue to serve as Chief Revenue Officer focused on new and emerging opportunities and sales channels.
+Financial Outlook
+THE FOLLOWING FORWARD-LOOKING STATEMENTS REFLECT MARCHEX’S EXPECTATIONS AS OF NOVEMBER 10, 2026
+The Company currently anticipates that the financial results for the three months ending December 31, 2026 will be in the range of (in millions):
+Fourth Quarter 2026 (outlook)
+Revenue | $15.0 or more
+Adjusted EBITDA, net of reorganization and acquisition costs | $2.3 - $2.5
+Marchex notes that seasonality in the fourth quarter based on lower conversational volumes typically leads to lower sequential revenue and Adjusted EBITDA. The fourth quarter forecast largely assumes such seasonality, although Marchex believes that based on its current sales pipeline and cost efficiencies, there may be opportunities to offset and potentially outperform such typical seasonality depending on the timing and formalization of opportunities, which would also provide additional visibility on growth acceleration into 2027. Marchex will provide its initial 2027 financial outlook when it reports its Fourth Quarter 2026 Financial results, currently anticipated in early March 2027.
+Marchex expects to continue building on the operational progress achieved during the third quarter while pursuing new revenue opportunities arising from the combination with Archenia. The Company remains focused on expanding adoption of its AI-powered solutions, deepening relationships with existing customers, and maintaining disciplined expense management.
+Looking ahead to 2027, Marchex believes that combining its conversational intelligence capabilities with Archenia's customer acquisition and qualification technologies will create meaningful opportunities to accelerate revenue growth and expand operating leverage. The Company intends to selectively invest in sales and product development to capitalize on these opportunities while maintaining a disciplined approach to expense management and long-term profitability.
+About Marchex
+Marchex harnesses proprietary AI-powered conversational intelligence and advanced customer acquisition technologies to help businesses transform consumer intent into actionable, outcome-driven business results. Through its combination with Archenia, the Company integrates prescriptive analytics, omnichannel intelligence, AI-powered qualification, and automated engagement capabilities into a comprehensive customer acquisition and optimization platform.
+Leveraging real-time AI signals, machine-learning models, and deep vertical market expertise, Marchex helps organizations identify consumer intent, improve customer engagement, increase conversion rates, and generate revenue growth. The Company serves leading businesses across major verticals, including automotive, insurance, home services, healthcare, and advertising/media.
+Please visit www.marchex.com or follow Marchex on LinkedIn, where the Company discloses material information from time to time about its business and financial performance.
+Forward-Looking Statements
+Certain statements included above contain forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical facts, included herein regarding the Company’s strategy, future operations, future financial position, future revenues, other financial guidance, acquisitions, dispositions, projected costs, prospects, plans and objectives of management are forward-looking statements. The Company may not actually achieve the plans, intentions, or expectations disclosed in its forward-looking statements and you should not place undue reliance on such statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in such statements due to a number of important factors, including but not limited to product demand, order cancellations and delays, competition, changes in business strategy or development plans, and general economic and business conditions. These factors are described in greater detail in the “Risk Factors” section of the Company’s most recent periodic report or registration statement filed with the SEC. All of the information provided herein is as of November 10, 2026 and the Company undertakes no duty to update the information provided herein.
+In the event the earnings release contains links to third party websites or materials, the links are provided solely as a convenience to the user. Marchex is not responsible for the content of linked third-party sites or materials and does not make any representations regarding the content or accuracy thereof.
+Non-GAAP Financial Information
+To supplement Marchex's consolidated financial statements presented in accordance with GAAP and to provide clarity internally and externally, Marchex uses certain non-GAAP measures of financial performance and liquidity, including adjusted EBITDA and adjusted non-GAAP income (loss) per share. Financial analysts and investors may use adjusted EBITDA to help with comparative financial evaluation to make informed investment decisions. Financial analysts and investors may use adjusted non-GAAP income (loss) per share to analyze Marchex's financial performance since these groups have historically used earnings per share related measures, along with other measures, to estimate the value of a Company, to make informed investment decisions, and to evaluate a Company's operating performance compared to that of other companies in its industry.
+Adjusted EBITDA represents net income (loss) before (1) interest, (2) income taxes, (3) amortization of intangible assets from acquisitions, (4) depreciation and amortization, (5) stock-based compensation expense, and (6) acquisition and disposition-related costs. Adjusted EBITDA is a metric by which Marchex has evaluated the performance of its business, to include being the basis on which Marchex's internal budgets have been based and by which Marchex's management has been evaluated. This measure is used by our management to understand and evaluate our core operating performance and trends, and management believes it provides meaningful information regarding the Company's liquidity and ability to fund its operations and financing obligations.
+Adjusted non-GAAP income (loss) per share represents adjusted non-GAAP income (loss) divided by GAAP diluted shares outstanding. Adjusted non-GAAP income (loss) generally captures those items on the statement of operations that have been, or ultimately will be, settled in cash exclusive of certain items that are not indicative of Marchex’s recurring core operating results and represents net income (loss) applicable to common stockholders plus the net of tax effects of: (1) stock-based compensation expense, (2) acquisition and disposition related costs, (3) amortization of intangible assets from acquisitions, and (4) interest (income) expense and other, net.
+Marchex's management believes that investors should have access to, and Marchex is obligated to provide, the same set of tools that management uses in analyzing the Company's results. These non-GAAP measures should be considered in addition to results prepared in accordance with GAAP, and should not be considered in isolation, as a substitute for, or superior to, GAAP results. Marchex’s non-GAAP financial measures may be defined differently from time to time and may be defined differently than similar titled terms used by other companies, and accordingly, care should be exercised in understanding how Marchex defines its non-GAAP financial measures in this release. Marchex endeavors to compensate for the limitations of the non-GAAP measures presented by providing the comparable GAAP measure with equal or greater prominence, GAAP financial statements, and detailed descriptions of the reconciling items and adjustments, including quantifying such items, to derive the non-GAAP measure.
+For further information, contact:
+Marchex Investor Relations
+Email: ir@marchex.com
+Or
+Marchex Corporate Communications
+Email: pr@marchex.com
+MARCHEX, INC. AND SUBSIDIARIES
+Consolidated Statements of Operations
+(In Thousands, except per share amounts)
+(Unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 (As Adjusted) | 2026 | 2025 (As Adjusted)
+Revenue | $ | 15,974 | $ | 15,192 | $ | 45,874 | $ | 49,039
+Expenses:
+Cost of revenue (1) | 7,708 | 7,011 | 22,036 | 22,750
+Amortization of capitalized software development costs | 129 | 29 | 322 | 39
+Total cost of revenue (1) | 7,837 | 7,040 | 22,358 | 22,789
+Sales and marketing (1) | 2,624 | 3,319 | 9,281 | 10,867
+Product development (1) | 2,016 | 2,736 | 6,965 | 8,904
+General and administrative (1) | 2,059 | 3,243 | 7,384 | 9,496
+Total operating expenses | $ | 14,536 | $ | 16,338 | $ | 45,988 | $ | 52,056
+Income (loss) from operations | 1,438 | (1,146 | ) | (114 | ) | (3,017 | )
+Interest income (expense) and other, net | (164 | ) | (120 | ) | (432 | ) | 367
+Income (loss) before income tax expense | 1,274 | (1,266 | ) | (546 | ) | (2,650 | )
+Income tax expense | — | 27 | 310 | 148
+Net income (loss) applicable to common stockholders | $ | 1,274 | $ | (1,293 | ) | $ | (856 | ) | $ | (2,798 | )
+Basic and diluted net income (loss) per Class A and B share applicable to common stockholders | $ | 0.03 | $ | (0.03 | ) | $ | (0.02 | ) | $ | (0.06 | )
+Shares used to calculate basic net income (loss) per share applicable to common stockholders:
+Class A | 4,661 | 4,661 | 4,661 | 4,661
+Class B | 39,679 | 39,247 | 39,546 | 39,183
+Shares used to calculate diluted net income (loss) per share applicable to common stockholders:
+Class A | 4,661 | 4,661 | 4,661 | 4,661
+Class B | 44,340 | 43,908 | 44,207 | 43,844
+(1) Includes stock-based compensation allocated as follows:
+Cost of revenue | $ | 12 | $ | 4 | $ | 22 | $ | 8
+Sales and marketing | 208 | 100 | 575 | 297
+Product development | 117 | 70 | 318 | 175
+General and administrative | 228 | 793 | 765 | 1,594
+Total | $ | 565 | $ | 967 | $ | 1,680 | $ | 2,074
+MARCHEX, INC. AND SUBSIDIARIES
+Consolidated Balance Sheets
+(In Thousands)
+(Unaudited)
+September 30, | December 31,
+2026 | 2025 (As Adjusted)
+Assets
+Current assets:
+Cash and cash equivalents | $ | 8,671 | $ | 10,301
+Accounts receivable, net | 9,517 | 8,654
+Prepaid expenses | 1,823 | 1,042
+Other current assets | 993 | 1,475
+Total current assets | 21,004 | 21,472
+Property and equipment, net | 2,392 | 1,932
+Other assets, net | 377 | 564
+Right-of-use lease assets | — | 668
+Goodwill | 17,558 | 17,558
+Total assets | $ | 41,331 | $ | 42,194
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable | $ | 5,372 | $ | 4,674
+Accrued benefits and payroll | 909 | 1,412
+Other accrued expenses and current liabilities | 2,610 | 3,060
+Deferred revenue and deposits | 384 | 598
+Related party obligations and related amounts, current | 4,910 | —
+Contingent earn-out, current | 2,464 | —
+Operating lease liability, current | 396 | 355
+Total current liabilities | 17,045 | 10,099
+Deferred tax liabilities | 871 | 664
+Operating lease liability, non-current | — | 366
+Related party obligations, related amounts, and other non-current liabilities | 6,686 | 2,766
+Contingent earn-out, non-current | 1,991 | —
+Total liabilities | $ | 26,593 | $ | 13,895
+Stockholders’ equity:
+Class A common stock | $ | 49 | $ | 49
+Class B common stock | 397 | 392
+Additional paid-in capital | 352,086 | 364,796
+Accumulated deficit | (337,794 | ) | (336,938 | )
+Total stockholders’ equity | 14,738 | 28,299
+Total liabilities and stockholders’ equity | $ | 41,331 | $ | 42,194
+MARCHEX, INC. AND SUBSIDIARIES
+(In Thousands)
+(Unaudited)
+Reconciliation of Net Income (Loss) to Adjusted EBITDA
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 (As Adjusted) | 2026 | 2025 (As Adjusted)
+Net income (loss) applicable to common stockholders | $ | 1,274 | $ | (1,293 | ) | $ | (856 | ) | $ | (2,798 | )
+Interest expense (income) and other, net | 164 | 120 | 432 | (367 | )
+Income tax expense | — | 27 | 310 | 148
+Amortization of capitalized software development costs | 138 | 31 | 348 | 42
+Depreciation and amortization | 233 | 626 | 1,326 | 1,911
+Stock-based compensation | 565 | 967 | 1,680 | 2,074
+Adjusted EBITDA | $ | 2,374 | $ | 478 | $ | 3,240 | $ | 1,010
+MARCHEX, INC. AND SUBSIDIARIES
+(In Thousands)
+(Unaudited)
+Reconciliation of Net Income (Loss) per Share to Adjusted Non-GAAP Income (Loss) per Share (1)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 (As Adjusted) | 2026 | 2025 (As Adjusted)
+Net income (loss) per share applicable to common stockholders, diluted | $ | 0.03 | $ | (0.03 | ) | $ | (0.02 | ) | $ | (0.06 | )
+Stock-based compensation | 0.01 | 0.02 | 0.04 | 0.05
+Interest income (expense) and other, net | — | — | (0.01 | ) | 0.01
+Adjusted non-GAAP income (loss) per share | $ | 0.04 | $ | (0.01 | ) | $ | 0.01 | $ | 0.00
+Shares used to calculate diluted net income (loss) per share applicable to common stockholders (GAAP) and adjusted non-GAAP income (loss) per share | 44,340 | 43,908 | 44,207 | 43,844
+(1)
+For the purpose of computing the number of diluted shares for adjusted non-GAAP income (loss) per share, Marchex uses the accounting guidance that would be applicable for computing the number of diluted shares for GAAP net income (loss) per share.
