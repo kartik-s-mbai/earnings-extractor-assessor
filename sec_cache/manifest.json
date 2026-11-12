@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T10:14:07+08:00",
+  "fetched_at": "2026-11-12T10:29:37+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,31 +16,31 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 212 ms"
+      "detail": "HTTP 200, 60 KB in 142 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 208 ms"
+      "detail": "HTTP 200, 60 KB in 15 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 276 ms"
+      "detail": "HTTP 200, 60 KB in 17 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=300",
       "ok": true,
-      "detail": "HTTP 200, 53 KB in 341 ms"
+      "detail": "HTTP 200, 53 KB in 16 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 21 ms"
+      "detail": "HTTP 200, 148 KB in 124 ms"
     },
     {
       "name": "Amazon filings list",
@@ -52,43 +52,43 @@
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 18 ms"
+      "detail": "HTTP 200, 153 KB in 16 ms"
     },
     {
       "name": "ACCESS Newswire Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/843006/000168316826008458/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 38 ms"
+      "detail": "HTTP 200, 1 KB in 37 ms"
     },
     {
       "name": "ACCESS Newswire Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/843006/000168316826008458/access_ex9901.htm",
       "ok": true,
-      "detail": "HTTP 200, 158 KB in 36 ms"
+      "detail": "HTTP 200, 158 KB in 48 ms"
     },
     {
-      "name": "KORU Medical Systems, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169726000243/index.json",
+      "name": "MARCHEX INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1224133/000119312526455514/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 35 ms"
+      "detail": "HTTP 200, 1 KB in 37 ms"
     },
     {
-      "name": "KORU Medical Systems, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169726000243/ex_99-1.htm",
+      "name": "MARCHEX INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1224133/000119312526455514/mchx-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 120 KB in 30 ms"
+      "detail": "HTTP 200, 463 KB in 35 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 32 ms"
+      "detail": "HTTP 200, 3,174 KB in 33 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 22 ms"
+      "detail": "HTTP 200, 4,447 KB in 23 ms"
     },
     {
       "name": "Meta Platforms company facts",
@@ -100,25 +100,25 @@
       "name": "ACCESS Newswire Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000843006.json",
       "ok": true,
-      "detail": "HTTP 200, 2,582 KB in 290 ms"
+      "detail": "HTTP 200, 2,582 KB in 262 ms"
     },
     {
-      "name": "KORU Medical Systems, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000704440.json",
+      "name": "MARCHEX INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001224133.json",
       "ok": true,
-      "detail": "HTTP 200, 1,873 KB in 246 ms"
+      "detail": "HTTP 200, 2,255 KB in 92 ms"
     },
     {
       "name": "Surrozen, Inc./DE company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001824893.json",
       "ok": true,
-      "detail": "HTTP 200, 835 KB in 78 ms"
+      "detail": "HTTP 200, 835 KB in 145 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000704440.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000843006.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001224133.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001824893.json",
@@ -129,8 +129,8 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_704440_000116169726000243_ex_99-1.htm",
-    "www.sec.gov_Archives_edgar_data_704440_000116169726000243_index.json",
+    "www.sec.gov_Archives_edgar_data_1224133_000119312526455514_index.json",
+    "www.sec.gov_Archives_edgar_data_1224133_000119312526455514_mchx-ex99_1.htm",
     "www.sec.gov_Archives_edgar_data_843006_000168316826008458_access_ex9901.htm",
     "www.sec.gov_Archives_edgar_data_843006_000168316826008458_index.json"
   ]
