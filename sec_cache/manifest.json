@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-11T09:27:43+08:00",
+  "fetched_at": "2026-11-12T10:14:07+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-09",
-    "end": "2026-11-10",
+    "end": "2026-11-11",
     "first_run": false,
     "note": null
   },
@@ -14,39 +14,39 @@
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 75 ms"
+      "detail": "HTTP 200, 60 KB in 212 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 26 ms"
+      "detail": "HTTP 200, 60 KB in 208 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 18 ms"
+      "detail": "HTTP 200, 60 KB in 276 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=300",
       "ok": true,
-      "detail": "HTTP 200, 52 KB in 28 ms"
+      "detail": "HTTP 200, 53 KB in 341 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 31 ms"
+      "detail": "HTTP 200, 148 KB in 21 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 22 ms"
+      "detail": "HTTP 200, 156 KB in 19 ms"
     },
     {
       "name": "Meta Platforms filings list",
@@ -55,34 +55,34 @@
       "detail": "HTTP 200, 153 KB in 18 ms"
     },
     {
-      "name": "B&G Foods, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1278027/000110465926125151/index.json",
+      "name": "ACCESS Newswire Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/843006/000168316826008458/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 55 ms"
+      "detail": "HTTP 200, 1 KB in 38 ms"
     },
     {
-      "name": "B&G Foods, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1278027/000110465926125151/bgs-ex99d1.htm",
+      "name": "ACCESS Newswire Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/843006/000168316826008458/access_ex9901.htm",
       "ok": true,
-      "detail": "HTTP 200, 863 KB in 42 ms"
+      "detail": "HTTP 200, 158 KB in 36 ms"
     },
     {
-      "name": "PepGen Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1835597/000119312526454469/index.json",
+      "name": "KORU Medical Systems, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169726000243/index.json",
       "ok": true,
-      "detail": "HTTP 200, 4 KB in 34 ms"
+      "detail": "HTTP 200, 1 KB in 35 ms"
     },
     {
-      "name": "PepGen Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1835597/000119312526454469/pepg-ex99_1.htm",
+      "name": "KORU Medical Systems, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169726000243/ex_99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 112 KB in 40 ms"
+      "detail": "HTTP 200, 120 KB in 30 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 35 ms"
+      "detail": "HTTP 200, 3,174 KB in 32 ms"
     },
     {
       "name": "Amazon company facts",
@@ -94,34 +94,34 @@
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 26 ms"
+      "detail": "HTTP 200, 2,745 KB in 23 ms"
     },
     {
-      "name": "B&G Foods, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001278027.json",
+      "name": "ACCESS Newswire Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000843006.json",
       "ok": true,
-      "detail": "HTTP 200, 3,310 KB in 147 ms"
+      "detail": "HTTP 200, 2,582 KB in 290 ms"
     },
     {
-      "name": "PepGen Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001835597.json",
+      "name": "KORU Medical Systems, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000704440.json",
       "ok": true,
-      "detail": "HTTP 200, 667 KB in 19 ms"
+      "detail": "HTTP 200, 1,873 KB in 246 ms"
     },
     {
       "name": "Surrozen, Inc./DE company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001824893.json",
       "ok": true,
-      "detail": "HTTP 200, 835 KB in 219 ms"
+      "detail": "HTTP 200, 835 KB in 78 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000704440.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000843006.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001278027.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001824893.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001835597.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -129,9 +129,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1278027_000110465926125151_bgs-ex99d1.htm",
-    "www.sec.gov_Archives_edgar_data_1278027_000110465926125151_index.json",
-    "www.sec.gov_Archives_edgar_data_1835597_000119312526454469_index.json",
-    "www.sec.gov_Archives_edgar_data_1835597_000119312526454469_pepg-ex99_1.htm"
+    "www.sec.gov_Archives_edgar_data_704440_000116169726000243_ex_99-1.htm",
+    "www.sec.gov_Archives_edgar_data_704440_000116169726000243_index.json",
+    "www.sec.gov_Archives_edgar_data_843006_000168316826008458_access_ex9901.htm",
+    "www.sec.gov_Archives_edgar_data_843006_000168316826008458_index.json"
   ]
 }
