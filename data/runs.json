@@ -3513,5 +3513,99 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-14T06:37:47+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-14-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 3,
+      "failures": [
+        {
+          "name": "Surrozen, Inc./DE company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "ACCESS Newswire Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "MARCHEX INC company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 3,
+      "checked": 3,
+      "rechecks": 3,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 12
+    },
+    "companies": [
+      {
+        "cik": "1824893",
+        "company": "Surrozen, Inc./DE",
+        "accession": "0001193125-26-426828",
+        "period_label": "financing announcement of 20 October 2026, no quarter given",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "843006",
+        "company": "ACCESS Newswire Inc.",
+        "accession": "0001683168-26-008458",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1224133",
+        "company": "MARCHEX INC",
+        "accession": "0001193125-26-455514",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 3 extractions: 0 figures confirmed, 0 mismatches, 12 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-14T06:09:53+08:00",
+      "watch_brief": "briefs/2026-11-14-watch.md",
+      "brief_says": null,
+      "saved_for_run": 0,
+      "match": null
+    },
+    "offline": false
   }
 ]
