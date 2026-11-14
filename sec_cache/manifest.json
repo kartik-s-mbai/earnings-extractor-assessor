@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T09:24:44+08:00",
+  "fetched_at": "2026-11-14T09:43:42+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,126 +16,126 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 132 ms"
+      "detail": "HTTP 200, 60 KB in 417 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 126 ms"
+      "detail": "HTTP 200, 60 KB in 1028 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 89 ms"
+      "detail": "HTTP 200, 60 KB in 419 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 84 ms"
+      "detail": "HTTP 200, 55 KB in 298 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 94 ms"
+      "detail": "HTTP 200, 148 KB in 93 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 74 ms"
+      "detail": "HTTP 200, 156 KB in 133 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 39 ms"
+      "detail": "HTTP 200, 154 KB in 63 ms"
     },
     {
-      "name": "T1 Energy Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1992243/000121390026118327/index.json",
+      "name": "Sagimet Biosciences Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1400118/000119312526457000/index.json",
       "ok": true,
-      "detail": "HTTP 200, 3 KB in 90 ms"
+      "detail": "HTTP 200, 5 KB in 80 ms"
     },
     {
-      "name": "T1 Energy Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1992243/000121390026118327/ea031199401ex99-1.htm",
+      "name": "Sagimet Biosciences Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1400118/000119312526457000/d123481dex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 165 KB in 81 ms"
+      "detail": "HTTP 200, 55 KB in 36 ms"
     },
     {
-      "name": "ELITE PHARMACEUTICALS INC /NV/ filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1053369/000149315226051484/index.json",
+      "name": "Meridian Holdings Inc./NV filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1437925/000147793226006829/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 194 ms"
+      "detail": "HTTP 200, 1 KB in 34 ms"
     },
     {
-      "name": "ELITE PHARMACEUTICALS INC /NV/ press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1053369/000149315226051484/ex99-1.htm",
+      "name": "Meridian Holdings Inc./NV press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1437925/000147793226006829/meridian_ex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 13 KB in 52 ms"
+      "detail": "HTTP 200, 80 KB in 82 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 73 ms"
+      "detail": "HTTP 200, 3,174 KB in 175 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 63 ms"
+      "detail": "HTTP 200, 4,447 KB in 107 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 47 ms"
+      "detail": "HTTP 200, 2,745 KB in 188 ms"
     },
     {
-      "name": "T1 Energy Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001992243.json",
+      "name": "Sagimet Biosciences Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001400118.json",
       "ok": true,
-      "detail": "HTTP 200, 716 KB in 281 ms"
+      "detail": "HTTP 200, 439 KB in 82 ms"
     },
     {
-      "name": "ELITE PHARMACEUTICALS INC /NV/ company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001053369.json",
+      "name": "Meridian Holdings Inc./NV company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001437925.json",
       "ok": true,
-      "detail": "HTTP 200, 2,515 KB in 310 ms"
+      "detail": "HTTP 200, 2,237 KB in 221 ms"
     },
     {
       "name": "Surrozen, Inc./DE company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001824893.json",
       "ok": true,
-      "detail": "HTTP 200, 835 KB in 224 ms"
+      "detail": "HTTP 200, 835 KB in 258 ms"
     },
     {
       "name": "ACCESS Newswire Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000843006.json",
       "ok": true,
-      "detail": "HTTP 200, 2,582 KB in 922 ms"
+      "detail": "HTTP 200, 2,582 KB in 188 ms"
     },
     {
       "name": "MARCHEX INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001224133.json",
       "ok": true,
-      "detail": "HTTP 200, 2,255 KB in 270 ms"
+      "detail": "HTTP 200, 2,255 KB in 208 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000843006.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001053369.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001224133.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001400118.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001437925.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001824893.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001992243.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -143,9 +143,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1053369_000149315226051484_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1053369_000149315226051484_index.json",
-    "www.sec.gov_Archives_edgar_data_1992243_000121390026118327_ea031199401ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1992243_000121390026118327_index.json"
+    "www.sec.gov_Archives_edgar_data_1400118_000119312526457000_d123481dex991.htm",
+    "www.sec.gov_Archives_edgar_data_1400118_000119312526457000_index.json",
+    "www.sec.gov_Archives_edgar_data_1437925_000147793226006829_index.json",
+    "www.sec.gov_Archives_edgar_data_1437925_000147793226006829_meridian_ex991.htm"
   ]
 }
