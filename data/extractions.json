@@ -877,5 +877,130 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1224133/000119312526455514/mchx-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1224133/000119312526455514/0001193125-26-455514-index.htm",
     "saved_at": "2026-11-13T06:08:17+08:00"
+  },
+  {
+    "cik": "1390478",
+    "company": "SELLAS Life Sciences Group, Inc.",
+    "accession": "0001390478-26-000021",
+    "release_date": "2026-11-12",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -11.309,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (11,309)"
+      },
+      "net_income": {
+        "value": -10.091,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (10,091)"
+      },
+      "diluted_eps": {
+        "value": -0.05,
+        "unit": "USD per share",
+        "quote": "Net loss per common share, basic and diluted | $ | (0.05)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO expects to announce topline primary endpoint results of the Phase 3 REGAL trial this month.",
+        "quote": "In our ongoing Phase 3 REGAL trial of GPS, we are focused on completing the final analysis following the announcement of 80th event, and we expect to announce topline primary endpoint results this month."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO expects preliminary topline data from the Phase 2 trial of SLS009 in newly diagnosed AML in the fourth quarter.",
+        "quote": "In parallel, enrollment and dosing continue in our Phase 2 trial of tambiciclib (SLS009) in newly diagnosed AML, with preliminary topline data expected in the fourth quarter."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says $134.7 million in cash and cash equivalents leaves the company well positioned to advance its programmes.",
+        "quote": "With $134.7 million in cash and cash equivalents as of September 30, we are well positioned to further advance these programs."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of executing across both programmes, a possibly transformative therapy and being well positioned, with no headwind named."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1390478-0001390478-26-000021.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1390478/000139047826000021/sls-202611128xkexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1390478/000139047826000021/0001390478-26-000021-index.htm",
+    "saved_at": "2026-11-18T06:07:33+08:00"
+  },
+  {
+    "cik": "2030763",
+    "company": "DataMeds AI, Inc.",
+    "accession": "0001493152-26-051734",
+    "release_date": "2026-11-13",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 2.66898,
+        "unit": "USD millions",
+        "quote": "Net revenues | $ | 2,668,980"
+      },
+      "operating_income": {
+        "value": -3.373956,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (3,373,956"
+      },
+      "net_income": {
+        "value": 10.589764,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to DataMeds AI | $ | 10,589,764"
+      },
+      "diluted_eps": {
+        "value": 2.72,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 2.72"
+      }
+    },
+    "guidance": {
+      "text": "Management expects revenue to keep growing in the fourth quarter of 2026, helped by new revenue streams of medical foods and diagnostic lab tests.",
+      "quote": "Corexa Pharmacy drove a 50% sequential increase in revenue this quarter with continued growth expected for the fourth quarter"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The Interim Co-CEO says Corexa Pharmacy drove a 50% rise in revenue from the second quarter.",
+        "quote": "Corexa Pharmacy drove a 50% sequential increase in revenue this quarter with continued growth expected for the fourth quarter"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The release says the company recorded a net operating profit of $10.535 million for the quarter.",
+        "quote": "The Company recorded a net operating profit of $10.535 million in the quarter ended September 30, 2026, compared with a net operating loss of $34.318 million in the quarter ended September 30, 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The release puts the move to profit down mainly to debt extinguishment, lower management pay and lower general and administrative expenses.",
+        "quote": "was largely due to the extinguishment of debt and outstanding liabilities related to litigation associated with prior management and a reduction in expenses associated management compensation, as well as a reduction in general and administrative expenses."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The Interim Co-CEO believes the company is well positioned for continued growth.",
+        "quote": "we believe DataMEDS is well positioned for continued growth going forward."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The Interim Co-CEO speaks of a 50% sequential revenue rise, new channels, restored Nasdaq compliance and expected continued growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2030763-0001493152-26-051734.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226051734/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226051734/0001493152-26-051734-index.htm",
+    "saved_at": "2026-11-18T06:07:33+08:00"
   }
 ]
