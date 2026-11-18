@@ -16875,5 +16875,629 @@
     "filing_found": true,
     "recheck": false,
     "assessed_at": "2026-11-18T06:37:40+08:00"
+  },
+  {
+    "accession": "0001193125-26-426828",
+    "cik": "1824893",
+    "company": "Surrozen, Inc./DE",
+    "period_end": "2026-10-20",
+    "period_label": "financing announcement of 20 October 2026, no quarter given",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty (null); the release is a financing announcement with no quarter, so there is no filed figure to compare."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty (null); the release is a financing announcement with no quarter, so there is no filed figure to compare."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left net income empty (null); the release is a financing announcement with no quarter, so there is no filed figure to compare."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left diluted EPS empty (null); the release is a financing announcement with no quarter, so there is no filed figure to compare."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No figure was extracted, so none can be wrong; the one claim quote is in the release. The 10-Q check does not apply to a financing announcement."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "The release is a financing announcement and gives no results figures, so the four empty figures are not a fault."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Fine for what it is: a financing and cash-runway note with no quarterly results for the analyst to use."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "Outlook on cash runway into 2029: every fundamentals row is 'not filed as a quarter' for this financing release, so neither the fundamentals nor the release's tables can test it."
+      }
+    },
+    "tone": {
+      "verdict": "not supported",
+      "reason": "No fundamentals are filed for this financing release, so the positive tone cannot be borne out by the numbers. It is untested, not contradicted."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "Surrozen expects its cash to fund it into 2029.",
+        "quote": "Following the closing, Surrozen expects its cash, cash equivalents and marketable securities to provide cash runway into 2029",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls the financing an important milestone that strengthens the balance sheet."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-19T06:38:20+08:00"
+  },
+  {
+    "accession": "0001476765-26-000084",
+    "cik": "1476765",
+    "company": "GOLUB CAPITAL BDC, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty (null). The presentation gives Total Investment Income of $186,776 thousand for the quarter, which a BDC reports in place of revenue."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty (null); a BDC reports no operating income, and the fundamentals show it as not filed as a quarter."
+      },
+      "net_income": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-K filed 2026-11-17 (20.067 USD millions, full year less nine months, difference 0.000%), and the quote's $20,067 in thousands holds the number."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left EPS empty (null). The presentation gives earnings per share of $0.08 for the quarter; no three-month EPS is filed, as the quarter ends the fiscal year."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "The one figure extracted, net income of 20.067 USD millions, is confirmed against the 10-K, and its quote is in the release and holds the number."
+      },
+      "S2": {
+        "score": 3,
+        "reason": "Revenue (Total Investment Income $186,776 thousand) and EPS ($0.08) are in the presentation but were left empty: two points off. Operating income is not given."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "Net income can be used, but the analyst must open the presentation for total investment income and EPS ($0.08) before 8:30 AM."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "20.067 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "20.067 USD millions (NetIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-K (full year less nine months) filed 2026-11-17)",
+        "filed_value": 20.067,
+        "filed_tag": "NetIncomeLoss",
+        "filed_form": "10-K (full year less nine months)",
+        "filed_on": "2026-11-17",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release tables: adjusted NII per share $0.34 to $0.33 and NII 85,217 to 82,506 thousand (-3.2%), close to stable as claimed. Reported net income fell 64.8% on the quarter (57.009 to 20.067), which the claim leaves to M2."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Tested on the release's tables, not the fundamentals: NAV per share $14.25 at 30 June 2026 and $14.00 at 30 September 2026, a fall of $0.25 as claimed."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "The fundamentals hold no credit figures and the release gives no earlier non-accrual rate, so 'low' cannot be tested. The release adds that two investments went on non-accrual in the quarter."
+      },
+      "M4": {
+        "verdict": "matches",
+        "reason": "Release tables: interest and other debt financing expenses rose from 60,993 to 63,878 thousand (+4.7%) on the quarter, as claimed; they are still below 70,366 a year ago. 'Attractive' cannot be tested."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Balanced fits: NII per share eased only from $0.33 to $0.32, while net income fell 79.2% on a year ago (96.29 to 20.067) and 64.8% on the quarter, and NAV per share fell $0.25."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 20.067,
+        "this_quarter_from": "10-K",
+        "year_ago": 96.29,
+        "change_year": -79.2,
+        "previous_quarter": 57.009,
+        "change_quarter": -64.8
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": 0.22,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Net investment income was stable on the prior quarter, at $0.33 of adjusted net investment income per share.",
+        "quote": "Net investment income stable quarter-over-quarter, $0.33 of adjusted net investment income per share, or an annualized adjusted NII ROE of 9.4%",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "Net asset value per share fell by $0.25 to $14.00 from 30 June 2026.",
+        "quote": "Net asset value of $14.00 per share, a decrease of $0.25 per share from $14.25 as of June 30, 2026",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "Non-accrual investments are described as low, at 1.6% of the portfolio at fair value and 3.3% at cost.",
+        "quote": "Non-accrual investments remain low at 1.6% of total investments at fair value (3.3% at cost)",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "costs",
+        "claim": "Borrowing costs are rising but are described as still attractive.",
+        "quote": "Borrowing costs increasing, but remain attractive",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The presentation stresses stable income and solid credit, and also reports unrealised losses and a lower net asset value per share."
+    },
+    "picked_from_radar": true,
+    "filing_found": true,
+    "recheck": false,
+    "assessed_at": "2026-11-19T06:38:20+08:00"
+  },
+  {
+    "accession": "0001171843-26-007509",
+    "cik": "1446159",
+    "company": "AXE COMPUTE INC.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No filed figure yet under Revenues or RevenueFromContractWithCustomer for the quarter. The quote 'Revenue | $7,243,043' is in the release and, in whole dollars, holds 7.243 million; the tool's unit check reads only thousands."
+      },
+      "operating_income": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-Q filed 2026-11-17 (6.826 USD millions, difference 0.000%). The quote 'Total operating income (loss) | 6,825,897' is in whole dollars, so it holds 6.826 million."
+      },
+      "net_income": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-Q filed 2026-11-17 (11.504 USD millions, difference 0.000%). The quote 'Net income (loss) | $11,503,607' is in whole dollars, so it holds 11.504 million."
+      },
+      "diluted_eps": {
+        "verdict": "confirmed",
+        "reason": "Matches the 10-Q filed 2026-11-17 (0.52 USD, the same to the cent), and the quote 'Net income (loss) per share, diluted | $0.52' holds the number."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Operating income, net income and diluted EPS are confirmed against the 10-Q; the revenue quote holds 7.243 million but no filed revenue figure was found yet."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there. The release gives no numeric guidance, so none was missed."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, but the analyst should know the profit rests on 15.04 million of mostly non-cash gains, and revenue still awaits a filed figure."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "7.243 USD millions",
+        "quote_found": true,
+        "number_in_quote": false,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under Revenues or RevenueFromContractWithCustomerExcludingAssessedTax. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "operating_income": {
+        "extracted": "6.826 USD millions",
+        "quote_found": true,
+        "number_in_quote": false,
+        "filed": "6.826 USD millions (OperatingIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-17)",
+        "filed_value": 6.825897,
+        "filed_tag": "OperatingIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-17",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "net_income": {
+        "extracted": "11.504 USD millions",
+        "quote_found": true,
+        "number_in_quote": false,
+        "filed": "11.504 USD millions (NetIncomeLoss, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-17)",
+        "filed_value": 11.503607,
+        "filed_tag": "NetIncomeLoss",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-17",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "0.000 per cent",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: within 0.5 per cent)."
+      },
+      "diluted_eps": {
+        "extracted": "0.52 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": "0.52 USD per share (EarningsPerShareDiluted, 2026-07-01 to 2026-09-30, 92 days, 10-Q filed 2026-11-17)",
+        "filed_value": 0.52,
+        "filed_tag": "EarningsPerShareDiluted",
+        "filed_form": "10-Q",
+        "filed_on": "2026-11-17",
+        "filed_period": "2026-07-01 to 2026-09-30, 92 days",
+        "difference": "+0.00 USD per share",
+        "match": true,
+        "note": "The filed figure matches the extracted one (the rule: the same to the cent)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Tested on the release's tables: Q3 revenue 7,243,043 against 3,214,280 for the first half (nine months 10,457,323 less Q3), up about 125%, as claimed. The fundamentals hold no earlier quarter."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release tables: gains on digital assets 10,477,971 plus unrealised gain on securities 4,557,443 make 15.04 million. Without them, operating income of 6.826 would be a loss of about 3.652 million."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "Outlook on deployment timing: the fundamentals and tables hold no figure for the Build contracts. Revenue so far (7.243 million) comes only from the Access model, so the timing cannot be tested."
+      },
+      "M4": {
+        "verdict": "cannot check",
+        "reason": "Signed contract value of more than $3 billion is not in the fundamentals or the financial tables; quarterly revenue was 7.243 million. Neither can test it."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "On reported figures: operating income turned to 6.826 from -17.328 last quarter and net income to 11.504 from -17.206. Note that 15.04 million of gains drive this; without them operations lost money."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 7.243043,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 6.825897,
+        "this_quarter_from": "10-Q",
+        "year_ago": -2.282129,
+        "change_year": null,
+        "previous_quarter": -17.32801,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 11.503607,
+        "this_quarter_from": "10-Q",
+        "year_ago": -77.651844,
+        "change_year": null,
+        "previous_quarter": -17.205882,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.52,
+        "this_quarter_from": "10-Q",
+        "year_ago": -107.26,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 94.24073555824535,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 158.8228455912798,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue grew 125% on the previous quarter to $7.2 million.",
+        "quote": "Revenue grew 125% over the previous quarter to $7.2 million, and we put $313 million to work building GPU infrastructure, primarily funded by our customers' prepayments",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The quarter's results include $15.0 million of gains, mostly non-cash fair value changes.",
+        "quote": "Results include $15.0 million of gains, primarily non-cash fair value changes, on digital assets and on the DataMeds securities received in the Helomics sale.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the first Build cluster is targeted for the fourth quarter, with the July contracts deploying in Q4 2026 and into 2027.",
+        "quote": "Our first Build cluster is targeted for deployment in the fourth quarter, and the July contracts move into deployment across the United States and Europe in Q4 of 2026 and into 2027.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The CEO says the company is now a pure-play GPU infrastructure company with more than $3 billion in signed contracts.",
+        "quote": "Axe Compute is now a pure-play GPU infrastructure company with more than $3 billion in signed contracts.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of strong value for customers, 125% revenue growth and more than $3 billion in signed contracts."
+    },
+    "picked_from_radar": true,
+    "filing_found": true,
+    "recheck": false,
+    "assessed_at": "2026-11-19T06:38:20+08:00"
   }
 ]
