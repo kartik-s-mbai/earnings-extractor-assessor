@@ -1122,5 +1122,118 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1446159/000117184326007509/exh_991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1446159/000117184326007509/0001171843-26-007509-index.htm",
     "saved_at": "2026-11-19T06:08:00+08:00"
+  },
+  {
+    "cik": "1261654",
+    "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
+    "accession": "0001261654-26-000021",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 235.883,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 235,883"
+      },
+      "operating_income": {
+        "value": 26.265,
+        "unit": "USD millions",
+        "quote": "Income from operations | 26,265"
+      },
+      "net_income": {
+        "value": 18.037,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,037"
+      },
+      "diluted_eps": {
+        "value": 0.32,
+        "unit": "USD per share",
+        "quote": "Net income per share - diluted | $ | 0.32"
+      }
+    },
+    "guidance": {
+      "text": "For fiscal 2027 the company expects revenue between $925 million and $945 million, with new student starts growing 9% at the midpoint.",
+      "quote": "Looking ahead to fiscal 2027, we expect revenue between $925 million and $945 million, while new student starts are expected to grow 9% at the midpoint"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO says fourth-quarter revenue rose 6.0% to $235.9 million, with average full-time active students up 6.3%.",
+        "quote": "Revenue increased 6.0% to $235.9 million, average full-time active students grew 6.3% and adjusted EBITDA increased 15.5% to $42.5 million."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Full-year revenue, net income and adjusted EBITDA were all within the updated guidance ranges.",
+        "quote": "For the full year, revenue, net income and adjusted EBITDA were all within our updated guidance ranges"
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The CFO says growth investments will temporarily pressure margins while building earnings power.",
+        "quote": "We view these as disciplined, high-return investments that will temporarily pressure margins while building meaningful earnings power for the years ahead."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO expects to exceed $1.2 billion in revenue and approach $220 million in adjusted EBITDA in fiscal 2029.",
+        "quote": "Together, these initiatives give us even greater confidence in our ability to exceed $1.2 billion in revenue and approach $220 million in adjusted EBITDA in fiscal 2029."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls fiscal 2026 a year of continued growth and voices greater confidence; the CFO notes margins will be under temporary pressure."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1261654-0001261654-26-000021.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1261654/000126165426000021/exhibit991-q42026earningsp.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1261654/000126165426000021/0001261654-26-000021-index.htm",
+    "saved_at": "2026-11-20T06:08:14+08:00"
+  },
+  {
+    "cik": "1520048",
+    "company": "Permianville Royalty Trust",
+    "accession": "0001104659-26-129695",
+    "release_date": "2026-11-18",
+    "period_end": "2026-11-18",
+    "period_label": "monthly distribution announcement of 18 November 2026, no quarter given",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Oil cash receipts were $2.5 million for the month, down $0.6 million from the prior month.",
+        "quote": "Recorded oil cash receipts from the oil and gas properties underlying the Trust (the “Underlying Properties”) totaled $2.5 million for the current month on realized wellhead prices of $77.96/Bbl, down $0.6 million from the prior month’s oil cash receipts."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Accrued operating expenses rose to $2.8 million and capital expenditures rose to $3.2 million.",
+        "quote": "Total accrued operating expenses increased by $0.2 million from the prior month to $2.8 million, and capital expenditures increased by $1.6 million from the prior month to $3.2 million."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The Sponsor is releasing $1.7 million of its $2.0 million cash reserve because of higher capital spending.",
+        "quote": "the Sponsor has notified the Trustee that it is releasing $1.7 million of the previously disclosed cash reserve of $2.0 million that it has established for approved, future development expenses on the Underlying Properties"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The release reports lower receipts and higher costs plainly, and notes the release of most of the cash reserve."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1520048-0001104659-26-129695.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1520048/000110465926129695/tm2630177d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1520048/000110465926129695/0001104659-26-129695-index.htm",
+    "saved_at": "2026-11-20T06:08:14+08:00"
   }
 ]
