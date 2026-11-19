@@ -17499,5 +17499,618 @@
     "filing_found": true,
     "recheck": false,
     "assessed_at": "2026-11-19T06:38:20+08:00"
+  },
+  {
+    "accession": "0001193125-26-426828",
+    "cik": "1824893",
+    "company": "Surrozen, Inc./DE",
+    "period_end": "2026-10-20",
+    "period_label": "financing announcement of 20 October 2026, no quarter given",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty (null); the release is a financing announcement with no quarter, so there is no filed figure to compare."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty (null); the release is a financing announcement with no quarter, so there is no filed figure to compare."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left net income empty (null); the release is a financing announcement with no quarter, so there is no filed figure to compare."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left diluted EPS empty (null); the release is a financing announcement with no quarter, so there is no filed figure to compare."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No figure was extracted, so none can be wrong; the one claim quote is in the release. The 10-Q check does not apply to a financing announcement."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "The release is a financing announcement and gives no results figures, so the four empty figures are not a fault."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Fine for what it is: a financing and cash-runway note ($95.1 million gross proceeds) with no quarterly results for the analyst to use."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "Outlook on cash runway into 2029: every fundamentals row is 'not filed as a quarter' for this financing release, and the release gives no cash balance, so neither can test it."
+      }
+    },
+    "tone": {
+      "verdict": "not supported",
+      "reason": "No fundamentals are filed for this financing release, so the positive tone cannot be borne out by the numbers. It is untested, not contradicted."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "Surrozen expects its cash to fund it into 2029.",
+        "quote": "Following the closing, Surrozen expects its cash, cash equivalents and marketable securities to provide cash runway into 2029",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls the financing an important milestone that strengthens the balance sheet."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-20T06:37:59+08:00"
+  },
+  {
+    "accession": "0001261654-26-000021",
+    "cik": "1261654",
+    "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No filed figure yet for the quarter to 2026-09-30, which ends the fiscal year (10-K due). The quote 'Revenues | $ | 235,883' (thousands) is in the release and holds 235.883."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "No filed figure yet for the quarter to 2026-09-30 (10-K due). The quote 'Income from operations | 26,265' (thousands) is in the release and holds 26.265."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No filed figure yet for the quarter to 2026-09-30 (10-K due). The quote 'Net income | $ | 18,037' (thousands) is in the release and holds 18.037."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No filed figure: EPS for the last quarter of the fiscal year is never filed on its own. The quote 'Net income per share - diluted | $ | 0.32' is in the release and holds 0.32."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers (235,883, 26,265, 18,037 thousand; $0.32). The check against the 10-K is still to come."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there, and the fiscal 2027 revenue guidance of $925-945 million is captured with its quote."
+      },
+      "S3": {
+        "score": 5,
+        "reason": "Usable as it stands before 8:30 AM: four quoted figures, the guidance and four claims, with the margin-pressure caveat noted in the tone."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "235.883 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under Revenues or RevenueFromContractWithCustomerExcludingAssessedTax. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "operating_income": {
+        "extracted": "26.265 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under OperatingIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "net_income": {
+        "extracted": "18.037 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under NetIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "diluted_eps": {
+        "extracted": "0.32 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Revenue rose 6.0% on a year ago (222.442 to 235.883), as claimed, and 7.8% on the previous quarter. The 6.3% rise in students is not in the fundamentals and was not tested."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Tested on the release's tables, not the fundamentals: full-year revenue 897.0 within $893-900m, net income 33.6 within $32-36m, adjusted EBITDA 102.0 within $100-103m."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Outlook, consistent with the trend: operating margin 11.1% against 11.2% a year ago (-0.1 pts), net margin 7.6% against 8.4% (-0.8 pts); full-year operating income fell from 83,469 to 45,536 thousand."
+      },
+      "M4": {
+        "verdict": "does not match",
+        "reason": "Outlook not consistent with the latest trend: $1.2bn from $897.0m needs about 10% a year, but revenue grew 6.0% on a year ago, 7.4% for the year, and fiscal 2027 guidance ($925-945m) is 3-5%. Adjusted EBITDA fell 19.3% to $102.0m."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Revenue rose 6.0% on a year ago and 7.8% on the quarter, operating income 5.1%; net income fell 3.8% and margins slipped, which the watcher's note on margin pressure covers."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 235.883,
+        "this_quarter_from": "release",
+        "year_ago": 222.442,
+        "change_year": 6.0,
+        "previous_quarter": 218.907,
+        "change_quarter": 7.8
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 26.265,
+        "this_quarter_from": "release",
+        "year_ago": 24.986,
+        "change_year": 5.1,
+        "previous_quarter": 3.245,
+        "change_quarter": 709.4
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 18.037,
+        "this_quarter_from": "release",
+        "year_ago": 18.756,
+        "change_year": -3.8,
+        "previous_quarter": 2.279,
+        "change_quarter": 691.4
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.32,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": 0.04,
+        "change_quarter": 700.0
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 11.134757485702657,
+        "this_quarter_from": "release",
+        "year_ago": 11.23259096753311,
+        "change_year": -0.1,
+        "previous_quarter": 1.4823646571375058,
+        "change_quarter": 9.7
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 7.64658750312655,
+        "this_quarter_from": "release",
+        "year_ago": 8.431860889580205,
+        "change_year": -0.8,
+        "previous_quarter": 1.0410813724549695,
+        "change_quarter": 6.6
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO says fourth-quarter revenue rose 6.0% to $235.9 million, with average full-time active students up 6.3%.",
+        "quote": "Revenue increased 6.0% to $235.9 million, average full-time active students grew 6.3% and adjusted EBITDA increased 15.5% to $42.5 million.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Full-year revenue, net income and adjusted EBITDA were all within the updated guidance ranges.",
+        "quote": "For the full year, revenue, net income and adjusted EBITDA were all within our updated guidance ranges",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The CFO says growth investments will temporarily pressure margins while building earnings power.",
+        "quote": "We view these as disciplined, high-return investments that will temporarily pressure margins while building meaningful earnings power for the years ahead.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO expects to exceed $1.2 billion in revenue and approach $220 million in adjusted EBITDA in fiscal 2029.",
+        "quote": "Together, these initiatives give us even greater confidence in our ability to exceed $1.2 billion in revenue and approach $220 million in adjusted EBITDA in fiscal 2029.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls fiscal 2026 a year of continued growth and voices greater confidence; the CFO notes margins will be under temporary pressure."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-11-20T06:37:59+08:00"
+  },
+  {
+    "accession": "0001104659-26-129695",
+    "cik": "1520048",
+    "company": "Permianville Royalty Trust",
+    "period_end": "2026-11-18",
+    "period_label": "monthly distribution announcement of 18 November 2026, no quarter given",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty (null); the release is a monthly distribution announcement with no quarter, and the trust's company facts could not be read (network 403)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty (null); the release is a monthly distribution announcement with no quarter and gives no operating income."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left net income empty (null); the release is a monthly distribution announcement with no quarter and gives no net income."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left diluted EPS empty (null); the release gives a distribution of $0.009500 per unit, not earnings per share."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No figure was extracted, so none can be wrong; all three claim quotes are in the release. The 10-Q check does not apply to a monthly distribution announcement."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "The release gives no revenue, operating income, net income or EPS, only monthly cash receipts and a distribution, so the four empty figures are not a fault."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Fine for what it is: a monthly distribution note ($0.009500 per unit) with lower receipts and higher capex, but no quarterly results to act on."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Tested on the release's table, not the fundamentals: oil volumes fell from 38,067 to 31,595 Bbls and the price from $81.06 to $77.96/Bbl, consistent with receipts down $0.6m to $2.5m."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "The fundamentals are not filed as a quarter and the release has no cost table, so the $2.8m operating expenses and $3.2m capital expenditures cannot be tested."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "A cash-reserve decision that no fundamentals row tests. Note the release's own figures: $2.0m less $1.7m released is $0.3m, yet it says $0.4m remains, probably rounding."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Tested on the release's table: oil and gas volumes and prices all fell (oil $81.06 to $77.96/Bbl, gas $3.05 to $2.87/Mcf), and the release reports the falls plainly, as a balanced reading says."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Oil cash receipts were $2.5 million for the month, down $0.6 million from the prior month.",
+        "quote": "Recorded oil cash receipts from the oil and gas properties underlying the Trust (the “Underlying Properties”) totaled $2.5 million for the current month on realized wellhead prices of $77.96/Bbl, down $0.6 million from the prior month’s oil cash receipts.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Accrued operating expenses rose to $2.8 million and capital expenditures rose to $3.2 million.",
+        "quote": "Total accrued operating expenses increased by $0.2 million from the prior month to $2.8 million, and capital expenditures increased by $1.6 million from the prior month to $3.2 million.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The Sponsor is releasing $1.7 million of its $2.0 million cash reserve because of higher capital spending.",
+        "quote": "the Sponsor has notified the Trustee that it is releasing $1.7 million of the previously disclosed cash reserve of $2.0 million that it has established for approved, future development expenses on the Underlying Properties",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The release reports lower receipts and higher costs plainly, and notes the release of most of the cash reserve."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": false,
+    "assessed_at": "2026-11-20T06:37:59+08:00"
   }
 ]
