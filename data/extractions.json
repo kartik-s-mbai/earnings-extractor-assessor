@@ -1235,5 +1235,118 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1520048/000110465926129695/tm2630177d1_ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1520048/000110465926129695/0001104659-26-129695-index.htm",
     "saved_at": "2026-11-20T06:08:14+08:00"
+  },
+  {
+    "cik": "1724009",
+    "company": "PermRock Royalty Trust",
+    "accession": "0001193125-26-467918",
+    "release_date": "2026-11-19",
+    "period_end": "2026-11-19",
+    "period_label": "monthly distribution announcement of 19 November 2026, no quarter given",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Oil cash receipts were $1.18 million for the month, up $0.17 million, mainly because of higher oil prices.",
+        "quote": "Oil cash receipts for the properties underlying the Trust totaled $1.18 million for the current month, an increase of $0.17 million from the prior month’s distribution period."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Total direct operating expenses rose by about $0.08 million to $0.54 million.",
+        "quote": "Total direct operating expenses, including marketing, lease operating expenses, and workover expenses, were $0.54 million, an increase of approximately $0.08 million from the prior month’s distribution period."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The first of six instalments recouping a prior overpayment reduced this month's amount to the Trust by $58,469.",
+        "quote": "oil sales revenue by $76,618 (net $61,294 to the Trust), less $3,532 of related severance taxes (net $2,826 to the Trust), for a total reduction of $58,469 to the Trust."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The release reports higher receipts on better prices alongside higher costs, holdbacks and the first recoupment instalment."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1724009-0001193125-26-467918.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/prt-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/0001193125-26-467918-index.htm",
+    "saved_at": "2026-11-21T06:07:53+08:00"
+  },
+  {
+    "cik": "896493",
+    "company": "Hyperscale Data, Inc.",
+    "accession": "0001214659-26-014587",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 44.848,
+        "unit": "USD millions",
+        "quote": "Revenue | $44,848"
+      },
+      "operating_income": {
+        "value": -19.408,
+        "unit": "USD millions",
+        "quote": "Loss from operations | $(19,408)"
+      },
+      "net_income": {
+        "value": -12.979,
+        "unit": "USD millions",
+        "quote": "Net loss | $(12,979)"
+      },
+      "diluted_eps": {
+        "value": -0.11,
+        "unit": "USD per share",
+        "quote": "Basic and diluted net loss per common share | $(0.11)"
+      }
+    },
+    "guidance": {
+      "text": "The company expects to energise the first 10 MW of AI capacity in Michigan in December 2026 and a further 10 MW by the end of March 2027.",
+      "quote": "The Company remains on track to energize the first 10 megawatts (“MW”) of AI capacity at its Michigan data center in December 2026, with an additional 10 MW targeted by the end of March 2027."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Third-quarter revenue rose 84% to $44.8 million from $24.3 million a year earlier.",
+        "quote": "Third quarter revenue increased 84% to $44.8 million, from $24.3 million in the third quarter of 2025"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The Executive Chairman says Circle 8 grew both revenue and operating income.",
+        "quote": "Circle 8 delivered meaningful growth in both revenue and operating income."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Higher operating expenses led to larger operating losses despite higher gross profit.",
+        "quote": "While gross profit increased, higher operating expenses resulted in larger operating losses in the three- and nine-month periods ended September 30, 2026."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The Executive Chairman says the top priority is commissioning the initial AI capacity while watching expenses and capital needs.",
+        "quote": "Our top priority now is commissioning our initial AI capacity and meeting our commitments to our customer, while keeping close attention on expenses and the capital required to complete our planned development."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The Executive Chairman stresses growth at Circle 8 and the AI build-out, while also pointing to expenses and the capital still required."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/896493-0001214659-26-014587.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926014587/ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926014587/0001214659-26-014587-index.htm",
+    "saved_at": "2026-11-21T06:07:53+08:00"
   }
 ]
