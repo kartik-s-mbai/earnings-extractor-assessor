@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T10:14:22+08:00",
+  "fetched_at": "2026-11-20T10:33:52+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,67 +16,67 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-19",
       "ok": true,
-      "detail": "HTTP 200, 41 KB in 517 ms"
+      "detail": "HTTP 200, 41 KB in 238 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 102 ms"
+      "detail": "HTTP 200, 148 KB in 93 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 54 ms"
+      "detail": "HTTP 200, 156 KB in 63 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 126 ms"
+      "detail": "HTTP 200, 153 KB in 67 ms"
     },
     {
       "name": "PermRock Royalty Trust filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 96 ms"
+      "detail": "HTTP 200, 1 KB in 62 ms"
     },
     {
       "name": "PermRock Royalty Trust press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/prt-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 32 KB in 36 ms"
+      "detail": "HTTP 200, 32 KB in 54 ms"
     },
     {
       "name": "Hyperscale Data, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926014587/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 86 ms"
+      "detail": "HTTP 200, 1 KB in 90 ms"
     },
     {
       "name": "Hyperscale Data, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926014587/ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 38 KB in 92 ms"
+      "detail": "HTTP 200, 38 KB in 58 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 174 ms"
+      "detail": "HTTP 200, 3,174 KB in 87 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 116 ms"
+      "detail": "HTTP 200, 4,447 KB in 112 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 74 ms"
+      "detail": "HTTP 200, 2,745 KB in 83 ms"
     },
     {
       "name": "PermRock Royalty Trust company facts",
@@ -88,19 +88,19 @@
       "name": "Hyperscale Data, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000896493.json",
       "ok": true,
-      "detail": "HTTP 200, 3,103 KB in 118 ms"
+      "detail": "HTTP 200, 3,103 KB in 154 ms"
     },
     {
       "name": "Surrozen, Inc./DE company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001824893.json",
       "ok": true,
-      "detail": "HTTP 200, 836 KB in 162 ms"
+      "detail": "HTTP 200, 836 KB in 258 ms"
     },
     {
       "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
       "ok": true,
-      "detail": "HTTP 200, 3,027 KB in 96 ms"
+      "detail": "HTTP 200, 3,027 KB in 382 ms"
     },
     {
       "name": "Permianville Royalty Trust company facts",
