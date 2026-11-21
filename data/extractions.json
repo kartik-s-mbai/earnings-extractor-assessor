@@ -1348,5 +1348,109 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926014587/ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926014587/0001214659-26-014587-index.htm",
     "saved_at": "2026-11-21T06:07:53+08:00"
+  },
+  {
+    "cik": "885245",
+    "company": "BUCKLE INC",
+    "accession": "0000885245-26-000041",
+    "release_date": "2026-11-20",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 329.202,
+        "unit": "USD millions",
+        "quote": "SALES, Net of returns and allowances | $ | 329,202"
+      },
+      "operating_income": {
+        "value": 59.387,
+        "unit": "USD millions",
+        "quote": "INCOME FROM OPERATIONS | 59,387"
+      },
+      "net_income": {
+        "value": 48.037,
+        "unit": "USD millions",
+        "quote": "NET INCOME | $ | 48,037"
+      },
+      "diluted_eps": {
+        "value": 0.94,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.94"
+      }
+    },
+    "guidance": null,
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/885245-0000885245-26-000041.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000041/bke20261120-8kexhibit.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/885245/000088524526000041/0000885245-26-000041-index.htm",
+    "saved_at": "2026-11-22T06:07:51+08:00"
+  },
+  {
+    "cik": "22701",
+    "company": "SUNation Energy, Inc.",
+    "accession": "0001213900-26-122794",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 11.201,
+        "unit": "USD millions",
+        "quote": "Sales | $ | 11,201"
+      },
+      "operating_income": {
+        "value": -11.708,
+        "unit": "USD millions",
+        "quote": "Operating loss | (11,708"
+      },
+      "net_income": {
+        "value": -11.82,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (11,820"
+      },
+      "diluted_eps": {
+        "value": -1.81,
+        "unit": "USD per share",
+        "quote": "Basic and diluted net loss per share | $ | (1.81"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue and gross margin improved on the second quarter, and commercial revenue grew 20% year on year.",
+        "quote": "Third-quarter revenue and gross margin improved from the second quarter as activity increased across our New York and Hawaii businesses"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CFO says gross margin rose to 30.8% and SG&A expense fell 37% year on year.",
+        "quote": "Higher sequential revenue supported gross-margin improvement to 30.8%, while year-over-year SG&A expense declined 37% following reductions in selling, marketing and personnel costs."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CFO says cash preservation and access to additional capital remain essential, with $2.8 million of cash at the end of September.",
+        "quote": "Cash preservation, working capital management and access to additional capital remain essential. We ended September with $2.8 million of cash and cash equivalents"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO expects to complete the Suniva merger in the first quarter of 2027, subject to conditions and approvals.",
+        "quote": "We currently anticipate completing the Suniva merger in the first quarter of 2027, subject to the required conditions and approvals."
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "Management stresses liquidity, cost management and the need for additional capital, alongside the sequential improvement."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/22701-0001213900-26-122794.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026122794/ea031315501ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026122794/0001213900-26-122794-index.htm",
+    "saved_at": "2026-11-22T06:07:51+08:00"
   }
 ]
