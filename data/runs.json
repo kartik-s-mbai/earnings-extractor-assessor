@@ -5347,5 +5347,162 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-24T06:38:15+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-24-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 6,
+      "failures": [
+        {
+          "name": "Surrozen, Inc./DE company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "Permianville Royalty Trust company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "PermRock Royalty Trust company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "BUCKLE INC company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "SUNation Energy, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 6,
+      "checked": 6,
+      "rechecks": 6,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 24
+    },
+    "companies": [
+      {
+        "cik": "1824893",
+        "company": "Surrozen, Inc./DE",
+        "accession": "0001193125-26-426828",
+        "period_label": "financing announcement of 20 October 2026, no quarter given",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1261654",
+        "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
+        "accession": "0001261654-26-000021",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1520048",
+        "company": "Permianville Royalty Trust",
+        "accession": "0001104659-26-129695",
+        "period_label": "monthly distribution announcement of 18 November 2026, no quarter given",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1724009",
+        "company": "PermRock Royalty Trust",
+        "accession": "0001193125-26-467918",
+        "period_label": "monthly distribution announcement of 19 November 2026, no quarter given",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "885245",
+        "company": "BUCKLE INC",
+        "accession": "0000885245-26-000041",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "22701",
+        "company": "SUNation Energy, Inc.",
+        "accession": "0001213900-26-122794",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 6 extractions: 0 figures confirmed, 0 mismatches, 24 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-24T06:07:39+08:00",
+      "watch_brief": "briefs/2026-11-24-watch.md",
+      "brief_says": null,
+      "saved_for_run": 0,
+      "match": null
+    },
+    "offline": false
   }
 ]
