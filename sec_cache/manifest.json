@@ -1,70 +1,118 @@
 {
-  "fetched_at": "2026-11-23T09:56:58+08:00",
+  "fetched_at": "2026-11-24T13:17:31+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-20",
-    "end": "2026-11-22",
+    "end": "2026-11-24",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 13,
-  "answered": 11,
+  "requests": 21,
+  "answered": 14,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-20&enddt=2026-11-22",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-20&enddt=2026-11-24",
       "ok": true,
-      "detail": "HTTP 200, 7 KB in 125 ms"
+      "detail": "HTTP 200, 26 KB in 71 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 106 ms"
+      "detail": "HTTP 200, 149 KB in 75 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 94 ms"
+      "detail": "HTTP 200, 157 KB in 44 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 53 ms"
+      "detail": "HTTP 200, 154 KB in 37 ms"
+    },
+    {
+      "name": "JACOBS SOLUTIONS INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/52988/000162828026075492/index.json",
+      "ok": false,
+      "detail": "HTTP 404 from www.sec.gov: the address was not found"
+    },
+    {
+      "name": "Varex Imaging Corp filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1681622/000168162226000085/index.json",
+      "ok": false,
+      "detail": "HTTP 404 from www.sec.gov: the address was not found"
+    },
+    {
+      "name": "BIOTRICITY INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 1 KB in 66 ms"
+    },
+    {
+      "name": "BIOTRICITY INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/ex99-1.htm",
+      "ok": true,
+      "detail": "HTTP 200, 21 KB in 111 ms"
+    },
+    {
+      "name": "CENTRAL GARDEN & PET CO filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/887733/000088773326000024/index.json",
+      "ok": false,
+      "detail": "HTTP 404 from www.sec.gov: the address was not found"
+    },
+    {
+      "name": "CITIUS ONCOLOGY, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1851484/000121390026123209/index.json",
+      "ok": false,
+      "detail": "HTTP 404 from www.sec.gov: the address was not found"
+    },
+    {
+      "name": "Zoom Communications, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1585521/000158552126000170/index.json",
+      "ok": false,
+      "detail": "HTTP 404 from www.sec.gov: the address was not found"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 75 ms"
+      "detail": "HTTP 200, 3,175 KB in 68 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 117 ms"
+      "detail": "HTTP 200, 4,447 KB in 61 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 81 ms"
+      "detail": "HTTP 200, 2,745 KB in 51 ms"
+    },
+    {
+      "name": "BIOTRICITY INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001630113.json",
+      "ok": true,
+      "detail": "HTTP 200, 1,603 KB in 44 ms"
     },
     {
       "name": "Surrozen, Inc./DE company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001824893.json",
       "ok": true,
-      "detail": "HTTP 200, 836 KB in 380 ms"
+      "detail": "HTTP 200, 836 KB in 204 ms"
     },
     {
       "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
       "ok": true,
-      "detail": "HTTP 200, 3,027 KB in 390 ms"
+      "detail": "HTTP 200, 3,027 KB in 278 ms"
     },
     {
       "name": "Permianville Royalty Trust company facts",
@@ -82,13 +130,13 @@
       "name": "BUCKLE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000885245.json",
       "ok": true,
-      "detail": "HTTP 200, 2,249 KB in 231 ms"
+      "detail": "HTTP 200, 2,249 KB in 307 ms"
     },
     {
       "name": "SUNation Energy, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000022701.json",
       "ok": true,
-      "detail": "HTTP 200, 3,024 KB in 129 ms"
+      "detail": "HTTP 200, 3,062 KB in 1304 ms"
     }
   ],
   "files": [
@@ -97,11 +145,14 @@
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001261654.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001630113.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001824893.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
-    "efts.sec.gov_search-index_from0.json"
+    "efts.sec.gov_search-index_from0.json",
+    "www.sec.gov_Archives_edgar_data_1630113_000149315226053584_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1630113_000149315226053584_index.json"
   ]
 }
