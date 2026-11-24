@@ -1452,5 +1452,61 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026122794/ea031315501ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/22701/000121390026122794/0001213900-26-122794-index.htm",
     "saved_at": "2026-11-22T06:07:51+08:00"
+  },
+  {
+    "cik": "1630113",
+    "company": "BIOTRICITY INC.",
+    "accession": "0001493152-26-053584",
+    "release_date": "2026-11-23",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 4.33,
+        "unit": "USD millions",
+        "quote": "Revenue increased 11.5% to $4.33 million."
+      },
+      "operating_income": {
+        "value": 0.339,
+        "unit": "USD millions",
+        "quote": "Income from operations increased 23.7% to $339 thousand, an operating margin of 7.8% (prior-year quarter: 7.0%)."
+      },
+      "net_income": {
+        "value": -0.81,
+        "unit": "USD millions",
+        "quote": "Net loss before dividends was $0.81 million (prior-year quarter: $0.69 million), including a $151 thousand non-cash loss on the change in fair value of derivative liabilities."
+      },
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the quarter brought year-on-year growth in technology fee revenue, a higher gross margin and operating leverage.",
+        "quote": "Our second quarter delivered year-over-year growth in technology fee revenue, a higher gross margin and operating leverage."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says revenue grew 11.5%, gross margin rose to 83.3% and income from operations rose 23.7%.",
+        "quote": "Revenue grew 11.5%, gross margin expanded to 83.3% and income from operations rose 23.7%"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CEO says gross profit grew faster than operating expenses, which rose partly because of the timing of research and development work.",
+        "quote": "as gross profit growth outpaced higher operating expenses, including the timing of research and development activities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks only of growth, a higher gross margin and operating leverage, and names no setback in the quarter."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1630113-0001493152-26-053584.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/0001493152-26-053584-index.htm",
+    "saved_at": "2026-11-25T06:08:08+08:00"
   }
 ]
