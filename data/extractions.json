@@ -1508,5 +1508,131 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/0001493152-26-053584-index.htm",
     "saved_at": "2026-11-25T06:08:08+08:00"
+  },
+  {
+    "cik": "47217",
+    "company": "HP INC",
+    "accession": "0000047217-26-000054",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 16004,
+        "unit": "USD millions",
+        "quote": "Total net revenue | 16,004 | 15,677 | 14,639"
+      },
+      "operating_income": {
+        "value": 844,
+        "unit": "USD millions",
+        "quote": "Earnings from operations | 844 | 892 | 959"
+      },
+      "net_income": {
+        "value": 769,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 769 | $ | 661 | $ | 795"
+      },
+      "diluted_eps": {
+        "value": 0.84,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.84 | $ | 0.71 | $ | 0.84"
+      }
+    },
+    "guidance": {
+      "text": "HP expects non-GAAP diluted EPS of $0.66 to $0.76 for the first quarter of fiscal 2027.",
+      "quote": "For the fiscal 2027 first quarter, HP estimates non-GAAP diluted net EPS to be in the range of $0.66 to $0.76."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO says HP grew fiscal 2026 revenue by 9.5%, met its guidance for the year and beat its free cash flow target.",
+        "quote": "We grew FY26 revenue 9.5%, delivered on our guidance for the year, exceeded our free cash flow target and returned $2.3 billion to shareholders, despite a challenging environment"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The interim CEO says AI PCs reached nearly 60% of shipments while HP acted on memory and storage cost pressures.",
+        "quote": "In the fourth quarter, we continued to grow our higher-value businesses, with AI PCs reaching nearly 60% of shipments, while taking steps to address memory and storage cost pressures"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CFO says the fiscal 2027 outlook reflects continued cost and demand pressures, but expects profitability to improve through the year.",
+        "quote": "While our fiscal 2027 outlook reflects a prudent view of continued cost and demand pressures, we have a strong track record of addressing challenges and are confident in our ability to drive improvement in our profitability throughout the year."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "Management cites revenue growth and guidance met, but also names memory cost pressures and a prudent outlook for cost and demand."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/47217-0000047217-26-000054.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000054/hp103126exhibit991q426.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000054/0000047217-26-000054-index.htm",
+    "saved_at": "2026-11-26T06:07:40+08:00"
+  },
+  {
+    "cik": "935703",
+    "company": "DOLLAR TREE, INC.",
+    "accession": "0000935703-26-000136",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 5078.4,
+        "unit": "USD millions",
+        "quote": "Total revenue | 5,078.4 | 4,751.0"
+      },
+      "operating_income": {
+        "value": 308.6,
+        "unit": "USD millions",
+        "quote": "Operating income | 308.6 | 343.3"
+      },
+      "net_income": {
+        "value": 232.0,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 232.0 | $ | 244.6"
+      },
+      "diluted_eps": {
+        "value": 1.24,
+        "unit": "USD per share",
+        "quote": "Diluted per share of common stock | $ | 1.24 | $ | 1.20"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter, Dollar Tree expects net sales from continuing operations of $5.7 billion to $5.8 billion, with comparable store net sales growth of 3% to 4%.",
+      "quote": "Net sales from continuing operations of $5.7 billion to $5.8 billion, based on comparable store net sales growth in the range of 3% to 4%."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says comparable traffic rose 3.8% and lifted comparable sales above the top of the company's outlook.",
+        "quote": "Comp traffic accelerated to 3.8% and drove comparable sales above the high end of our outlook."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the quarter shows the strength of the value proposition and progress on the customer experience.",
+        "quote": "Our third quarter results show the strength of Dollar Tree’s value proposition and the progress we’ve made to improve the customer experience"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company aims to position the business for sustained, profitable growth as the holiday season begins.",
+        "quote": "As the holiday season begins, our focus is clear: make Dollar Tree the destination for value, convenience and discovery, and position the business for sustained, profitable growth."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of strength, progress and momentum, and names no headwind in his own words."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/935703-0000935703-26-000136.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000136/ex991q3-26earningspressrel.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000136/0000935703-26-000136-index.htm",
+    "saved_at": "2026-11-26T06:07:40+08:00"
   }
 ]
