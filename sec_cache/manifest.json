@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T11:30:14+08:00",
+  "fetched_at": "2026-11-26T11:44:52+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,97 +16,97 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-24&enddt=2026-11-25",
       "ok": true,
-      "detail": "HTTP 200, 28 KB in 973 ms"
+      "detail": "HTTP 200, 28 KB in 241 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 165 ms"
+      "detail": "HTTP 200, 148 KB in 178 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 172 ms"
+      "detail": "HTTP 200, 156 KB in 99 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 166 ms"
+      "detail": "HTTP 200, 154 KB in 93 ms"
     },
     {
       "name": "SUBURBAN PROPANE PARTNERS LP filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1005210/000119312526477186/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 124 ms"
+      "detail": "HTTP 200, 1 KB in 165 ms"
     },
     {
       "name": "SUBURBAN PROPANE PARTNERS LP press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1005210/000119312526477186/sph-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 440 KB in 86 ms"
+      "detail": "HTTP 200, 440 KB in 102 ms"
     },
     {
       "name": "USCB FINANCIAL HOLDINGS, INC. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 104 ms"
+      "detail": "HTTP 200, 1 KB in 86 ms"
     },
     {
       "name": "USCB FINANCIAL HOLDINGS, INC. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/0000927089-26-000198-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 61 ms"
+      "detail": "HTTP 200, 10 KB in 177 ms"
     },
     {
       "name": "USCB FINANCIAL HOLDINGS, INC. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/ex_1051057.htm",
       "ok": true,
-      "detail": "HTTP 200, 24 KB in 71 ms"
+      "detail": "HTTP 200, 24 KB in 183 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 252 ms"
+      "detail": "HTTP 200, 3,175 KB in 171 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 289 ms"
+      "detail": "HTTP 200, 4,447 KB in 159 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 246 ms"
+      "detail": "HTTP 200, 2,745 KB in 161 ms"
     },
     {
       "name": "SUBURBAN PROPANE PARTNERS LP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001005210.json",
       "ok": true,
-      "detail": "HTTP 200, 2,852 KB in 256 ms"
+      "detail": "HTTP 200, 2,852 KB in 332 ms"
     },
     {
       "name": "USCB FINANCIAL HOLDINGS, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001901637.json",
       "ok": true,
-      "detail": "HTTP 200, 1,242 KB in 350 ms"
+      "detail": "HTTP 200, 1,242 KB in 311 ms"
     },
     {
       "name": "Surrozen, Inc./DE company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001824893.json",
       "ok": true,
-      "detail": "HTTP 200, 836 KB in 221 ms"
+      "detail": "HTTP 200, 836 KB in 296 ms"
     },
     {
       "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
       "ok": true,
-      "detail": "HTTP 200, 3,027 KB in 393 ms"
+      "detail": "HTTP 200, 3,027 KB in 305 ms"
     },
     {
       "name": "Permianville Royalty Trust company facts",
@@ -124,13 +124,13 @@
       "name": "BUCKLE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000885245.json",
       "ok": true,
-      "detail": "HTTP 200, 2,249 KB in 456 ms"
+      "detail": "HTTP 200, 2,249 KB in 279 ms"
     },
     {
       "name": "HP INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000047217.json",
       "ok": true,
-      "detail": "HTTP 200, 4,841 KB in 473 ms"
+      "detail": "HTTP 200, 4,841 KB in 209 ms"
     }
   ],
   "files": [
