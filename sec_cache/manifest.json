@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-28T11:14:54+08:00",
+  "fetched_at": "2026-11-28T11:30:04+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,73 +16,73 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-26&enddt=2026-11-27",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 378 ms"
+      "detail": "HTTP 200, 2 KB in 331 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 120 ms"
+      "detail": "HTTP 200, 148 KB in 227 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 86 ms"
+      "detail": "HTTP 200, 156 KB in 219 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 82 ms"
+      "detail": "HTTP 200, 153 KB in 187 ms"
     },
     {
       "name": "SemiLEDs Corp filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1333822/000119312526479475/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 143 ms"
+      "detail": "HTTP 200, 1 KB in 172 ms"
     },
     {
       "name": "SemiLEDs Corp press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1333822/000119312526479475/leds-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 284 KB in 119 ms"
+      "detail": "HTTP 200, 284 KB in 202 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 256 ms"
+      "detail": "HTTP 200, 3,175 KB in 389 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 212 ms"
+      "detail": "HTTP 200, 4,447 KB in 315 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 103 ms"
+      "detail": "HTTP 200, 2,745 KB in 354 ms"
     },
     {
       "name": "SemiLEDs Corp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001333822.json",
       "ok": true,
-      "detail": "HTTP 200, 2,332 KB in 156 ms"
+      "detail": "HTTP 200, 2,332 KB in 330 ms"
     },
     {
       "name": "Surrozen, Inc./DE company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001824893.json",
       "ok": true,
-      "detail": "HTTP 200, 836 KB in 318 ms"
+      "detail": "HTTP 200, 836 KB in 428 ms"
     },
     {
       "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
       "ok": true,
-      "detail": "HTTP 200, 3,027 KB in 461 ms"
+      "detail": "HTTP 200, 3,027 KB in 425 ms"
     },
     {
       "name": "Permianville Royalty Trust company facts",
@@ -100,19 +100,19 @@
       "name": "BUCKLE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000885245.json",
       "ok": true,
-      "detail": "HTTP 200, 2,249 KB in 355 ms"
+      "detail": "HTTP 200, 2,249 KB in 591 ms"
     },
     {
       "name": "HP INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000047217.json",
       "ok": true,
-      "detail": "HTTP 200, 4,841 KB in 159 ms"
+      "detail": "HTTP 200, 4,841 KB in 332 ms"
     },
     {
       "name": "USCB FINANCIAL HOLDINGS, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001901637.json",
       "ok": true,
-      "detail": "HTTP 200, 1,242 KB in 202 ms"
+      "detail": "HTTP 200, 1,242 KB in 306 ms"
     }
   ],
   "files": [
